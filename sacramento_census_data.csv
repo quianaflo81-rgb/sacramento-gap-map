@@ -1,0 +1,564 @@
+NAME,B17001_002E,B17001_001E,B03002_003E,B03002_004E,B03002_012E,B25044_003E,B25044_010E,B25044_001E,state,county,tract,poverty_rate,no_vehicle_rate,pct_black,pct_hispanic
+Census Tract 1; Sacramento County; California,315.0,4051.0,2942.0,82.0,649.0,16.0,20.0,1756.0,06,Sacramento,000100,7.8,2.1,2.0,16.0
+Census Tract 2; Sacramento County; California,199.0,3609.0,2567.0,86.0,527.0,76.0,74.0,1722.0,06,Sacramento,000200,5.5,8.7,2.4,14.6
+Census Tract 3; Sacramento County; California,194.0,3528.0,2716.0,86.0,407.0,14.0,10.0,1585.0,06,Sacramento,000300,5.5,1.5,2.4,11.5
+Census Tract 4; Sacramento County; California,436.0,3711.0,2307.0,122.0,988.0,44.0,129.0,2178.0,06,Sacramento,000400,11.7,7.9,3.3,26.6
+Census Tract 5.01; Sacramento County; California,503.0,2026.0,1008.0,65.0,495.0,18.0,229.0,1070.0,06,Sacramento,000501,24.8,23.1,3.2,24.4
+Census Tract 5.02; Sacramento County; California,167.0,1671.0,909.0,104.0,457.0,0.0,130.0,1048.0,06,Sacramento,000502,10.0,12.4,6.2,27.3
+Census Tract 6; Sacramento County; California,249.0,1468.0,774.0,46.0,294.0,0.0,148.0,815.0,06,Sacramento,000600,17.0,18.2,3.1,20.0
+Census Tract 7; Sacramento County; California,402.0,803.0,821.0,764.0,458.0,0.0,438.0,595.0,06,Sacramento,000700,50.1,73.6,95.1,57.0
+Census Tract 8; Sacramento County; California,363.0,1692.0,1098.0,116.0,357.0,6.0,447.0,1092.0,06,Sacramento,000800,21.5,41.5,6.9,21.1
+Census Tract 11.02; Sacramento County; California,373.0,1627.0,805.0,51.0,524.0,9.0,179.0,952.0,06,Sacramento,001102,22.9,19.7,3.1,32.2
+Census Tract 11.03; Sacramento County; California,417.0,1308.0,684.0,210.0,251.0,8.0,492.0,976.0,06,Sacramento,001103,31.9,51.2,16.1,19.2
+Census Tract 12.01; Sacramento County; California,499.0,2059.0,1249.0,43.0,247.0,0.0,350.0,1422.0,06,Sacramento,001201,24.2,24.6,2.1,12.0
+Census Tract 12.02; Sacramento County; California,520.0,2119.0,1005.0,241.0,496.0,182.0,563.0,1644.0,06,Sacramento,001202,24.5,45.3,11.4,23.4
+Census Tract 13; Sacramento County; California,567.0,3535.0,2556.0,51.0,597.0,0.0,289.0,2249.0,06,Sacramento,001300,16.0,12.9,1.4,16.9
+Census Tract 14; Sacramento County; California,390.0,2308.0,1535.0,128.0,585.0,0.0,470.0,1860.0,06,Sacramento,001400,16.9,25.3,5.5,25.3
+Census Tract 15; Sacramento County; California,169.0,4800.0,3908.0,93.0,583.0,47.0,72.0,2476.0,06,Sacramento,001500,3.5,4.8,1.9,12.1
+Census Tract 16.01; Sacramento County; California,464.0,3273.0,2192.0,63.0,992.0,11.0,84.0,1572.0,06,Sacramento,001601,14.2,6.0,1.9,30.3
+Census Tract 16.02; Sacramento County; California,16.0,2219.0,1648.0,0.0,361.0,75.0,14.0,1082.0,06,Sacramento,001602,0.7,8.2,0.0,16.3
+Census Tract 17.01; Sacramento County; California,561.0,2207.0,668.0,8.0,947.0,27.0,36.0,920.0,06,Sacramento,001701,25.4,6.8,0.4,42.9
+Census Tract 17.02; Sacramento County; California,811.0,3705.0,2773.0,53.0,424.0,46.0,368.0,2104.0,06,Sacramento,001702,21.9,19.7,1.4,11.4
+Census Tract 18; Sacramento County; California,537.0,5591.0,2496.0,623.0,1439.0,17.0,130.0,2707.0,06,Sacramento,001800,9.6,5.4,11.1,25.7
+Census Tract 19; Sacramento County; California,428.0,3541.0,2244.0,62.0,720.0,39.0,178.0,1887.0,06,Sacramento,001900,12.1,11.5,1.8,20.3
+Census Tract 20; Sacramento County; California,365.0,2899.0,1371.0,44.0,796.0,36.0,179.0,1570.0,06,Sacramento,002000,12.6,13.7,1.5,27.5
+Census Tract 21; Sacramento County; California,415.0,2560.0,908.0,298.0,657.0,88.0,92.0,1284.0,06,Sacramento,002100,16.2,14.0,11.6,25.7
+Census Tract 22; Sacramento County; California,1280.0,5278.0,1900.0,154.0,1617.0,22.0,57.0,2195.0,06,Sacramento,002200,24.3,3.6,2.9,30.6
+Census Tract 23; Sacramento County; California,179.0,3565.0,2783.0,44.0,469.0,15.0,14.0,1747.0,06,Sacramento,002300,5.0,1.7,1.2,13.2
+Census Tract 24; Sacramento County; California,270.0,4975.0,3237.0,56.0,1283.0,0.0,63.0,2031.0,06,Sacramento,002400,5.4,3.1,1.1,25.8
+Census Tract 25; Sacramento County; California,49.0,1955.0,1487.0,43.0,244.0,7.0,68.0,921.0,06,Sacramento,002500,2.5,8.1,2.2,12.5
+Census Tract 26; Sacramento County; California,223.0,2598.0,1831.0,120.0,282.0,50.0,31.0,1367.0,06,Sacramento,002600,8.6,5.9,4.6,10.9
+Census Tract 27; Sacramento County; California,757.0,3474.0,1568.0,468.0,876.0,51.0,80.0,1564.0,06,Sacramento,002700,21.8,8.4,13.5,25.2
+Census Tract 28; Sacramento County; California,1031.0,3339.0,852.0,698.0,1144.0,6.0,154.0,1185.0,06,Sacramento,002800,30.9,13.5,20.9,34.3
+Census Tract 29; Sacramento County; California,896.0,5130.0,3322.0,126.0,1061.0,80.0,17.0,2491.0,06,Sacramento,002900,17.5,3.9,2.5,20.7
+Census Tract 30.01; Sacramento County; California,454.0,2971.0,928.0,438.0,1086.0,58.0,35.0,1178.0,06,Sacramento,003001,15.3,7.9,14.7,36.6
+Census Tract 30.02; Sacramento County; California,380.0,3587.0,1989.0,152.0,1087.0,29.0,41.0,1860.0,06,Sacramento,003002,10.6,3.8,4.2,30.3
+Census Tract 31.01; Sacramento County; California,474.0,3487.0,875.0,166.0,2123.0,9.0,16.0,1178.0,06,Sacramento,003101,13.6,2.1,4.8,60.9
+Census Tract 31.02; Sacramento County; California,290.0,3084.0,770.0,239.0,1775.0,45.0,39.0,978.0,06,Sacramento,003102,9.4,8.6,7.7,57.6
+Census Tract 32.02; Sacramento County; California,1071.0,4944.0,901.0,84.0,2279.0,0.0,214.0,1661.0,06,Sacramento,003202,21.7,12.9,1.7,46.1
+Census Tract 32.03; Sacramento County; California,752.0,2971.0,322.0,128.0,759.0,5.0,19.0,709.0,06,Sacramento,003203,25.3,3.4,4.3,25.5
+Census Tract 32.04; Sacramento County; California,1290.0,5249.0,667.0,211.0,1641.0,8.0,10.0,1351.0,06,Sacramento,003204,24.6,1.3,4.0,31.3
+Census Tract 33; Sacramento County; California,394.0,4655.0,2822.0,142.0,916.0,10.0,15.0,1916.0,06,Sacramento,003300,8.5,1.3,3.1,19.7
+Census Tract 34; Sacramento County; California,426.0,4420.0,1796.0,208.0,1428.0,76.0,124.0,1952.0,06,Sacramento,003400,9.6,10.2,4.7,32.3
+Census Tract 35.01; Sacramento County; California,377.0,2447.0,1049.0,137.0,765.0,17.0,53.0,1423.0,06,Sacramento,003501,15.4,4.9,5.6,31.3
+Census Tract 35.02; Sacramento County; California,232.0,3067.0,1371.0,125.0,676.0,30.0,63.0,1257.0,06,Sacramento,003502,7.6,7.4,4.1,22.0
+Census Tract 36; Sacramento County; California,362.0,2521.0,844.0,138.0,1222.0,17.0,18.0,961.0,06,Sacramento,003600,14.4,3.6,5.5,48.5
+Census Tract 37; Sacramento County; California,1194.0,4696.0,458.0,674.0,2318.0,66.0,18.0,1417.0,06,Sacramento,003700,25.4,5.9,14.4,49.4
+Census Tract 38; Sacramento County; California,331.0,5415.0,965.0,1023.0,1975.0,33.0,14.0,1654.0,06,Sacramento,003800,6.1,2.8,18.9,36.5
+Census Tract 39; Sacramento County; California,247.0,3622.0,1542.0,240.0,1060.0,69.0,8.0,1711.0,06,Sacramento,003900,6.8,4.5,6.6,29.3
+Census Tract 40.05; Sacramento County; California,227.0,4223.0,1637.0,724.0,824.0,24.0,104.0,1998.0,06,Sacramento,004005,5.4,6.4,17.1,19.5
+Census Tract 40.06; Sacramento County; California,578.0,5163.0,1120.0,1179.0,1014.0,0.0,170.0,2570.0,06,Sacramento,004006,11.2,6.6,22.8,19.6
+Census Tract 40.08; Sacramento County; California,283.0,3337.0,1139.0,341.0,633.0,9.0,0.0,1404.0,06,Sacramento,004008,8.5,0.6,10.2,19.0
+Census Tract 40.11; Sacramento County; California,161.0,3260.0,1006.0,308.0,305.0,0.0,7.0,1435.0,06,Sacramento,004011,4.9,0.5,9.4,9.4
+Census Tract 40.12; Sacramento County; California,249.0,4066.0,1237.0,690.0,913.0,19.0,0.0,1492.0,06,Sacramento,004012,6.1,1.3,17.0,22.5
+Census Tract 40.13; Sacramento County; California,158.0,3911.0,975.0,276.0,1103.0,72.0,31.0,1532.0,06,Sacramento,004013,4.0,6.7,7.1,28.2
+Census Tract 40.14; Sacramento County; California,75.0,2327.0,787.0,495.0,531.0,36.0,15.0,1106.0,06,Sacramento,004014,3.2,4.6,21.3,22.8
+Census Tract 40.15; Sacramento County; California,387.0,3946.0,1634.0,354.0,743.0,7.0,5.0,1807.0,06,Sacramento,004015,9.8,0.7,9.0,18.8
+Census Tract 40.16; Sacramento County; California,294.0,1819.0,989.0,57.0,159.0,50.0,6.0,790.0,06,Sacramento,004016,16.2,7.1,3.1,8.7
+Census Tract 40.17; Sacramento County; California,208.0,2585.0,695.0,465.0,402.0,27.0,9.0,1269.0,06,Sacramento,004017,8.0,2.8,18.0,15.6
+Census Tract 40.18; Sacramento County; California,139.0,3007.0,698.0,298.0,593.0,8.0,29.0,1186.0,06,Sacramento,004018,4.6,3.1,9.9,19.7
+Census Tract 40.19; Sacramento County; California,367.0,3134.0,931.0,546.0,647.0,24.0,40.0,1272.0,06,Sacramento,004019,11.7,5.0,17.4,20.6
+Census Tract 40.20; Sacramento County; California,431.0,2416.0,852.0,782.0,202.0,0.0,87.0,1222.0,06,Sacramento,004020,17.8,7.1,32.4,8.4
+Census Tract 41; Sacramento County; California,818.0,5390.0,729.0,950.0,1482.0,31.0,81.0,1682.0,06,Sacramento,004100,15.2,6.7,17.6,27.5
+Census Tract 42.01; Sacramento County; California,723.0,6072.0,1042.0,1337.0,2437.0,20.0,21.0,1832.0,06,Sacramento,004201,11.9,2.2,22.0,40.1
+Census Tract 42.02; Sacramento County; California,1163.0,5791.0,560.0,1300.0,2595.0,49.0,134.0,1796.0,06,Sacramento,004202,20.1,10.2,22.4,44.8
+Census Tract 42.03; Sacramento County; California,1460.0,6306.0,833.0,630.0,2561.0,120.0,82.0,1790.0,06,Sacramento,004203,23.2,11.3,10.0,40.6
+Census Tract 43.01; Sacramento County; California,870.0,6497.0,891.0,647.0,1950.0,98.0,0.0,1460.0,06,Sacramento,004301,13.4,6.7,10.0,30.0
+Census Tract 43.02; Sacramento County; California,1281.0,4616.0,411.0,359.0,1106.0,11.0,120.0,1117.0,06,Sacramento,004302,27.8,11.7,7.8,24.0
+Census Tract 44.01; Sacramento County; California,882.0,3846.0,827.0,1091.0,1423.0,18.0,144.0,1464.0,06,Sacramento,004401,22.9,11.1,28.4,37.0
+Census Tract 44.02; Sacramento County; California,1469.0,4282.0,557.0,415.0,2288.0,25.0,97.0,1305.0,06,Sacramento,004402,34.3,9.3,9.7,53.4
+Census Tract 45.01; Sacramento County; California,1079.0,3709.0,271.0,247.0,1925.0,0.0,158.0,1056.0,06,Sacramento,004501,29.1,15.0,6.7,51.9
+Census Tract 45.02; Sacramento County; California,981.0,5068.0,414.0,889.0,2639.0,63.0,152.0,1540.0,06,Sacramento,004502,19.4,14.0,17.5,52.1
+Census Tract 46.02; Sacramento County; California,2036.0,5847.0,1427.0,336.0,3017.0,31.0,165.0,1753.0,06,Sacramento,004602,34.8,11.2,5.7,51.6
+Census Tract 46.03; Sacramento County; California,892.0,2966.0,591.0,305.0,1164.0,0.0,85.0,985.0,06,Sacramento,004603,30.1,8.6,10.3,39.2
+Census Tract 46.04; Sacramento County; California,636.0,4893.0,587.0,1201.0,1839.0,0.0,144.0,1519.0,06,Sacramento,004604,13.0,9.5,24.5,37.6
+Census Tract 47.01; Sacramento County; California,1030.0,3879.0,246.0,593.0,1564.0,10.0,143.0,1128.0,06,Sacramento,004701,26.6,13.6,15.3,40.3
+Census Tract 47.02; Sacramento County; California,1397.0,4906.0,767.0,634.0,1980.0,21.0,145.0,1504.0,06,Sacramento,004702,28.5,11.0,12.9,40.4
+Census Tract 48.01; Sacramento County; California,1417.0,5822.0,712.0,557.0,1491.0,113.0,160.0,1668.0,06,Sacramento,004801,24.3,16.4,9.6,25.6
+Census Tract 48.02; Sacramento County; California,1223.0,5271.0,631.0,503.0,1510.0,18.0,148.0,1499.0,06,Sacramento,004802,23.2,11.1,9.5,28.6
+Census Tract 49.04; Sacramento County; California,883.0,6245.0,1083.0,1033.0,2674.0,16.0,96.0,1929.0,06,Sacramento,004904,14.1,5.8,16.5,42.8
+Census Tract 49.06; Sacramento County; California,777.0,3497.0,401.0,1018.0,1011.0,6.0,17.0,988.0,06,Sacramento,004906,22.2,2.3,29.1,28.9
+Census Tract 49.07; Sacramento County; California,732.0,2427.0,352.0,647.0,433.0,0.0,184.0,733.0,06,Sacramento,004907,30.2,25.1,26.7,17.8
+Census Tract 49.08; Sacramento County; California,512.0,5020.0,472.0,687.0,2222.0,34.0,65.0,1338.0,06,Sacramento,004908,10.2,7.4,13.7,44.3
+Census Tract 49.09; Sacramento County; California,385.0,2553.0,236.0,752.0,833.0,0.0,144.0,830.0,06,Sacramento,004909,15.1,17.3,29.5,32.6
+Census Tract 49.10; Sacramento County; California,1148.0,4750.0,319.0,46.0,2101.0,0.0,84.0,1217.0,06,Sacramento,004910,24.2,6.9,1.0,44.2
+Census Tract 50.02; Sacramento County; California,1905.0,7045.0,870.0,739.0,3228.0,37.0,304.0,2454.0,06,Sacramento,005002,27.0,13.9,10.5,45.8
+Census Tract 50.03; Sacramento County; California,688.0,4374.0,959.0,631.0,1217.0,36.0,22.0,1458.0,06,Sacramento,005003,15.7,4.0,14.4,27.8
+Census Tract 50.04; Sacramento County; California,803.0,4611.0,407.0,179.0,2105.0,10.0,75.0,1053.0,06,Sacramento,005004,17.4,8.1,3.9,45.7
+Census Tract 51.01; Sacramento County; California,544.0,4929.0,569.0,640.0,1415.0,39.0,29.0,1254.0,06,Sacramento,005101,11.0,5.4,13.0,28.7
+Census Tract 51.02; Sacramento County; California,672.0,4511.0,1186.0,687.0,1307.0,44.0,20.0,1521.0,06,Sacramento,005102,14.9,4.2,15.2,29.0
+Census Tract 52.01; Sacramento County; California,679.0,1591.0,1073.0,446.0,1465.0,0.0,93.0,796.0,06,Sacramento,005201,42.7,11.7,28.0,92.1
+Census Tract 52.02; Sacramento County; California,481.0,3581.0,1902.0,173.0,750.0,27.0,10.0,1550.0,06,Sacramento,005202,13.4,2.4,4.8,20.9
+Census Tract 52.04; Sacramento County; California,506.0,4562.0,2725.0,349.0,908.0,57.0,167.0,1909.0,06,Sacramento,005204,11.1,11.7,7.7,19.9
+Census Tract 52.05; Sacramento County; California,1088.0,3334.0,1416.0,182.0,1550.0,21.0,79.0,1385.0,06,Sacramento,005205,32.6,7.2,5.5,46.5
+Census Tract 53.01; Sacramento County; California,901.0,2060.0,915.0,452.0,330.0,0.0,158.0,698.0,06,Sacramento,005301,43.7,22.6,21.9,16.0
+Census Tract 54.02; Sacramento County; California,696.0,2965.0,1349.0,493.0,581.0,0.0,204.0,1633.0,06,Sacramento,005402,23.5,12.5,16.6,19.6
+Census Tract 54.03; Sacramento County; California,553.0,2208.0,1451.0,50.0,387.0,27.0,26.0,1319.0,06,Sacramento,005403,25.0,4.0,2.3,17.5
+Census Tract 54.04; Sacramento County; California,227.0,5887.0,4478.0,172.0,757.0,18.0,96.0,2816.0,06,Sacramento,005404,3.9,4.0,2.9,12.9
+Census Tract 55.02; Sacramento County; California,1295.0,5746.0,1277.0,850.0,2933.0,51.0,213.0,2059.0,06,Sacramento,005502,22.5,12.8,14.8,51.0
+Census Tract 55.05; Sacramento County; California,1052.0,4844.0,1595.0,513.0,1534.0,16.0,111.0,2232.0,06,Sacramento,005505,21.7,5.7,10.6,31.7
+Census Tract 55.06; Sacramento County; California,1510.0,3965.0,672.0,721.0,1773.0,0.0,16.0,1308.0,06,Sacramento,005506,38.1,1.2,18.2,44.7
+Census Tract 55.08; Sacramento County; California,1318.0,4067.0,1796.0,520.0,887.0,22.0,227.0,2012.0,06,Sacramento,005508,32.4,12.4,12.8,21.8
+Census Tract 55.09; Sacramento County; California,498.0,2171.0,689.0,610.0,470.0,0.0,46.0,994.0,06,Sacramento,005509,22.9,4.6,28.1,21.6
+Census Tract 55.10; Sacramento County; California,1907.0,5505.0,1660.0,884.0,1588.0,21.0,290.0,2329.0,06,Sacramento,005510,34.6,13.4,16.1,28.8
+Census Tract 56.01; Sacramento County; California,1586.0,6811.0,3239.0,403.0,997.0,0.0,138.0,2601.0,06,Sacramento,005601,23.3,5.3,5.9,14.6
+Census Tract 56.05; Sacramento County; California,1034.0,3647.0,1562.0,182.0,748.0,11.0,41.0,1308.0,06,Sacramento,005605,28.4,4.0,5.0,20.5
+Census Tract 56.06; Sacramento County; California,607.0,4845.0,2624.0,217.0,1272.0,18.0,66.0,1880.0,06,Sacramento,005606,12.5,4.5,4.5,26.3
+Census Tract 57.01; Sacramento County; California,533.0,3914.0,2643.0,257.0,434.0,19.0,58.0,1419.0,06,Sacramento,005701,13.6,5.4,6.6,11.1
+Census Tract 57.02; Sacramento County; California,155.0,4631.0,3719.0,21.0,493.0,40.0,25.0,1738.0,06,Sacramento,005702,3.3,3.7,0.5,10.6
+Census Tract 58.01; Sacramento County; California,400.0,5558.0,3800.0,413.0,807.0,25.0,46.0,2316.0,06,Sacramento,005801,7.2,3.1,7.4,14.5
+Census Tract 58.03; Sacramento County; California,122.0,3812.0,2753.0,22.0,278.0,0.0,0.0,1465.0,06,Sacramento,005803,3.2,0.0,0.6,7.3
+Census Tract 58.04; Sacramento County; California,138.0,2542.0,1969.0,0.0,266.0,0.0,18.0,1022.0,06,Sacramento,005804,5.4,1.8,0.0,10.5
+Census Tract 59.01; Sacramento County; California,477.0,5931.0,4303.0,431.0,531.0,209.0,113.0,2789.0,06,Sacramento,005901,8.0,11.5,7.3,9.0
+Census Tract 59.03; Sacramento County; California,527.0,2879.0,1532.0,488.0,225.0,0.0,47.0,1350.0,06,Sacramento,005903,18.3,3.5,17.0,7.8
+Census Tract 59.04; Sacramento County; California,770.0,5561.0,3408.0,420.0,621.0,45.0,186.0,2100.0,06,Sacramento,005904,13.8,11.0,7.6,11.2
+Census Tract 60.02; Sacramento County; California,753.0,5008.0,3260.0,411.0,724.0,135.0,111.0,2299.0,06,Sacramento,006002,15.0,10.7,8.2,14.5
+Census Tract 60.03; Sacramento County; California,1255.0,4866.0,2355.0,516.0,1529.0,10.0,119.0,1923.0,06,Sacramento,006003,25.8,6.7,10.6,31.4
+Census Tract 60.04; Sacramento County; California,165.0,2557.0,1921.0,100.0,409.0,7.0,11.0,1103.0,06,Sacramento,006004,6.5,1.6,3.9,16.0
+Census Tract 61.01; Sacramento County; California,1014.0,4528.0,2581.0,342.0,715.0,42.0,177.0,2118.0,06,Sacramento,006101,22.4,10.3,7.6,15.8
+Census Tract 61.02; Sacramento County; California,632.0,3928.0,1713.0,422.0,927.0,22.0,268.0,1969.0,06,Sacramento,006102,16.1,14.7,10.7,23.6
+Census Tract 62.02; Sacramento County; California,848.0,4181.0,1462.0,634.0,1513.0,36.0,118.0,1703.0,06,Sacramento,006202,20.3,9.0,15.2,36.2
+Census Tract 62.03; Sacramento County; California,1360.0,3992.0,892.0,355.0,1097.0,20.0,136.0,1367.0,06,Sacramento,006203,34.1,11.4,8.9,27.5
+Census Tract 62.04; Sacramento County; California,531.0,3462.0,956.0,159.0,1242.0,0.0,138.0,1355.0,06,Sacramento,006204,15.3,10.2,4.6,35.9
+Census Tract 63; Sacramento County; California,1542.0,4609.0,1632.0,520.0,1828.0,4.0,111.0,1588.0,06,Sacramento,006300,33.5,7.2,11.3,39.7
+Census Tract 64; Sacramento County; California,1079.0,5499.0,1456.0,483.0,2756.0,34.0,29.0,1752.0,06,Sacramento,006400,19.6,3.6,8.8,50.1
+Census Tract 65.01; Sacramento County; California,1788.0,4610.0,323.0,1293.0,1813.0,0.0,134.0,1478.0,06,Sacramento,006501,38.8,9.1,28.0,39.3
+Census Tract 65.02; Sacramento County; California,169.0,2568.0,447.0,143.0,469.0,0.0,0.0,655.0,06,Sacramento,006502,6.6,0.0,5.6,18.3
+Census Tract 66; Sacramento County; California,1704.0,7554.0,2150.0,931.0,2992.0,9.0,216.0,2455.0,06,Sacramento,006600,22.6,9.2,12.3,39.6
+Census Tract 67.03; Sacramento County; California,848.0,5592.0,736.0,992.0,2123.0,21.0,22.0,1375.0,06,Sacramento,006703,15.2,3.1,17.7,38.0
+Census Tract 67.04; Sacramento County; California,962.0,3745.0,693.0,733.0,1587.0,17.0,161.0,1058.0,06,Sacramento,006704,25.7,16.8,19.6,42.4
+Census Tract 67.05; Sacramento County; California,1428.0,5415.0,1480.0,985.0,1167.0,21.0,69.0,1454.0,06,Sacramento,006705,26.4,6.2,18.2,21.6
+Census Tract 67.06; Sacramento County; California,536.0,3486.0,339.0,388.0,1659.0,41.0,36.0,928.0,06,Sacramento,006706,15.4,8.3,11.1,47.6
+Census Tract 68.01; Sacramento County; California,315.0,1588.0,105.0,282.0,966.0,23.0,0.0,429.0,06,Sacramento,006801,19.8,5.4,17.8,60.8
+Census Tract 68.02; Sacramento County; California,863.0,1939.0,624.0,30.0,1010.0,15.0,129.0,787.0,06,Sacramento,006802,44.5,18.3,1.5,52.1
+Census Tract 68.03; Sacramento County; California,913.0,3523.0,207.0,724.0,1905.0,0.0,0.0,882.0,06,Sacramento,006803,25.9,0.0,20.6,54.1
+Census Tract 69.01; Sacramento County; California,218.0,1637.0,882.0,99.0,472.0,59.0,187.0,945.0,06,Sacramento,006901,13.3,26.0,6.0,28.8
+Census Tract 69.02; Sacramento County; California,903.0,3378.0,1258.0,224.0,1447.0,18.0,111.0,1245.0,06,Sacramento,006902,26.7,10.4,6.6,42.8
+Census Tract 70.01; Sacramento County; California,1062.0,4523.0,870.0,326.0,2860.0,3.0,31.0,1367.0,06,Sacramento,007001,23.5,2.5,7.2,63.2
+Census Tract 70.07; Sacramento County; California,630.0,5965.0,837.0,648.0,3550.0,27.0,57.0,1794.0,06,Sacramento,007007,10.6,4.7,10.9,59.5
+Census Tract 70.10; Sacramento County; California,550.0,3973.0,1661.0,571.0,760.0,12.0,35.0,2158.0,06,Sacramento,007010,13.8,2.2,14.4,19.1
+Census Tract 70.11; Sacramento County; California,1015.0,6917.0,1628.0,1321.0,2640.0,0.0,108.0,2743.0,06,Sacramento,007011,14.7,3.9,19.1,38.2
+Census Tract 70.12; Sacramento County; California,216.0,3841.0,827.0,614.0,1884.0,4.0,130.0,1484.0,06,Sacramento,007012,5.6,9.0,16.0,49.0
+Census Tract 70.13; Sacramento County; California,142.0,2968.0,487.0,431.0,1010.0,0.0,54.0,1079.0,06,Sacramento,007013,4.8,5.0,14.5,34.0
+Census Tract 70.16; Sacramento County; California,1142.0,5308.0,1141.0,748.0,1114.0,63.0,67.0,1667.0,06,Sacramento,007016,21.5,7.8,14.1,21.0
+Census Tract 70.17; Sacramento County; California,131.0,3569.0,926.0,418.0,928.0,11.0,0.0,1163.0,06,Sacramento,007017,3.7,0.9,11.7,26.0
+Census Tract 70.19; Sacramento County; California,1033.0,2897.0,365.0,842.0,881.0,0.0,43.0,813.0,06,Sacramento,007019,35.7,5.3,29.1,30.4
+Census Tract 70.20; Sacramento County; California,193.0,4854.0,2048.0,488.0,1081.0,21.0,13.0,1887.0,06,Sacramento,007020,4.0,1.8,10.1,22.3
+Census Tract 70.21; Sacramento County; California,546.0,5364.0,874.0,912.0,2498.0,10.0,94.0,1768.0,06,Sacramento,007021,10.2,5.9,17.0,46.6
+Census Tract 70.22; Sacramento County; California,438.0,3226.0,792.0,524.0,837.0,0.0,103.0,1239.0,06,Sacramento,007022,13.6,8.3,16.2,25.9
+Census Tract 70.23; Sacramento County; California,246.0,4659.0,1169.0,613.0,2145.0,15.0,31.0,1788.0,06,Sacramento,007023,5.3,2.6,13.2,46.0
+Census Tract 70.24; Sacramento County; California,260.0,2049.0,859.0,268.0,695.0,33.0,23.0,801.0,06,Sacramento,007024,12.7,7.0,13.1,33.9
+Census Tract 70.25; Sacramento County; California,227.0,2939.0,907.0,549.0,489.0,0.0,18.0,1239.0,06,Sacramento,007025,7.7,1.5,18.7,16.6
+Census Tract 70.26; Sacramento County; California,422.0,5514.0,1348.0,663.0,1048.0,0.0,120.0,2137.0,06,Sacramento,007026,7.7,5.6,12.0,19.0
+Census Tract 70.27; Sacramento County; California,87.0,2515.0,730.0,421.0,41.0,0.0,0.0,1005.0,06,Sacramento,007027,3.5,0.0,16.7,1.6
+Census Tract 70.28; Sacramento County; California,353.0,4649.0,982.0,673.0,1269.0,26.0,113.0,1691.0,06,Sacramento,007028,7.6,8.2,14.5,27.3
+Census Tract 71.01; Sacramento County; California,0.0,200.0,200.0,0.0,0.0,0.0,0.0,67.0,06,Sacramento,007101,0.0,0.0,0.0,0.0
+Census Tract 71.03; Sacramento County; California,447.0,4351.0,794.0,745.0,1020.0,13.0,47.0,1832.0,06,Sacramento,007103,10.3,3.3,17.1,23.4
+Census Tract 71.05; Sacramento County; California,79.0,6626.0,2137.0,940.0,1198.0,0.0,0.0,2351.0,06,Sacramento,007105,1.2,0.0,14.2,18.1
+Census Tract 71.06; Sacramento County; California,115.0,6785.0,1943.0,623.0,1541.0,0.0,0.0,2423.0,06,Sacramento,007106,1.7,0.0,9.2,22.7
+Census Tract 71.07; Sacramento County; California,325.0,4010.0,1119.0,402.0,564.0,77.0,25.0,1383.0,06,Sacramento,007107,8.1,7.4,10.0,14.1
+Census Tract 71.08; Sacramento County; California,371.0,5776.0,1509.0,432.0,893.0,43.0,39.0,1836.0,06,Sacramento,007108,6.4,4.5,7.5,15.5
+Census Tract 71.09; Sacramento County; California,337.0,3777.0,1851.0,439.0,474.0,27.0,105.0,1751.0,06,Sacramento,007109,8.9,7.5,11.6,12.5
+Census Tract 71.10; Sacramento County; California,80.0,5021.0,1684.0,1244.0,723.0,0.0,21.0,1570.0,06,Sacramento,007110,1.6,1.3,24.8,14.4
+Census Tract 71.11; Sacramento County; California,82.0,4563.0,1223.0,614.0,763.0,0.0,20.0,1360.0,06,Sacramento,007111,1.8,1.5,13.5,16.7
+Census Tract 72.02; Sacramento County; California,941.0,4062.0,2385.0,219.0,976.0,32.0,57.0,1418.0,06,Sacramento,007202,23.2,6.3,5.4,24.0
+Census Tract 72.04; Sacramento County; California,207.0,5920.0,1596.0,713.0,2060.0,1.0,37.0,1807.0,06,Sacramento,007204,3.5,2.1,12.0,34.8
+Census Tract 72.06; Sacramento County; California,247.0,3956.0,2751.0,44.0,737.0,3.0,5.0,1318.0,06,Sacramento,007206,6.2,0.6,1.1,18.6
+Census Tract 72.07; Sacramento County; California,661.0,4806.0,3279.0,207.0,910.0,19.0,6.0,1365.0,06,Sacramento,007207,13.8,1.8,4.3,18.9
+Census Tract 72.08; Sacramento County; California,477.0,4795.0,3127.0,80.0,1054.0,0.0,11.0,1444.0,06,Sacramento,007208,9.9,0.8,1.7,22.0
+Census Tract 72.09; Sacramento County; California,375.0,4024.0,2402.0,62.0,1105.0,20.0,12.0,1244.0,06,Sacramento,007209,9.3,2.6,1.5,27.5
+Census Tract 73.01; Sacramento County; California,1647.0,5353.0,1900.0,895.0,1822.0,20.0,197.0,1788.0,06,Sacramento,007301,30.8,12.1,16.7,34.0
+Census Tract 74.02; Sacramento County; California,462.0,7425.0,2964.0,674.0,3106.0,79.0,146.0,2348.0,06,Sacramento,007402,6.2,9.6,9.1,41.8
+Census Tract 74.03; Sacramento County; California,413.0,5281.0,2211.0,567.0,1779.0,20.0,56.0,1479.0,06,Sacramento,007403,7.8,5.1,10.7,33.7
+Census Tract 74.13; Sacramento County; California,2084.0,6421.0,2781.0,1108.0,1872.0,34.0,129.0,2078.0,06,Sacramento,007413,32.5,7.8,17.3,29.2
+Census Tract 74.14; Sacramento County; California,473.0,4594.0,1548.0,579.0,1628.0,0.0,118.0,1436.0,06,Sacramento,007414,10.3,8.2,12.6,35.4
+Census Tract 74.15; Sacramento County; California,130.0,3096.0,2059.0,542.0,396.0,27.0,0.0,1135.0,06,Sacramento,007415,4.2,2.4,17.5,12.8
+Census Tract 74.16; Sacramento County; California,638.0,4041.0,2151.0,528.0,974.0,17.0,4.0,1478.0,06,Sacramento,007416,15.8,1.4,13.1,24.1
+Census Tract 74.17; Sacramento County; California,473.0,3474.0,1927.0,237.0,468.0,19.0,0.0,1075.0,06,Sacramento,007417,13.6,1.8,6.8,13.5
+Census Tract 74.22; Sacramento County; California,247.0,2827.0,1541.0,100.0,764.0,0.0,70.0,904.0,06,Sacramento,007422,8.7,7.7,3.5,27.0
+Census Tract 74.23; Sacramento County; California,2293.0,6380.0,2161.0,1344.0,1392.0,39.0,242.0,2235.0,06,Sacramento,007423,35.9,12.6,21.1,21.8
+Census Tract 74.24; Sacramento County; California,826.0,3802.0,1637.0,116.0,942.0,0.0,45.0,1378.0,06,Sacramento,007424,21.7,3.3,3.1,24.8
+Census Tract 74.26; Sacramento County; California,172.0,2506.0,1202.0,656.0,339.0,0.0,10.0,777.0,06,Sacramento,007426,6.9,1.3,26.2,13.5
+Census Tract 74.27; Sacramento County; California,1997.0,8033.0,3956.0,1592.0,1563.0,22.0,152.0,2504.0,06,Sacramento,007427,24.9,6.9,19.8,19.5
+Census Tract 74.28; Sacramento County; California,474.0,3475.0,2398.0,94.0,514.0,8.0,34.0,1200.0,06,Sacramento,007428,13.6,3.5,2.7,14.8
+Census Tract 74.29; Sacramento County; California,1595.0,5769.0,2290.0,981.0,1321.0,4.0,144.0,1941.0,06,Sacramento,007429,27.6,7.6,17.0,22.9
+Census Tract 74.30; Sacramento County; California,823.0,8153.0,5165.0,719.0,953.0,11.0,0.0,2277.0,06,Sacramento,007430,10.1,0.5,8.8,11.7
+Census Tract 74.31; Sacramento County; California,161.0,3199.0,1743.0,268.0,569.0,0.0,0.0,1084.0,06,Sacramento,007431,5.0,0.0,8.4,17.8
+Census Tract 74.32; Sacramento County; California,152.0,4940.0,3262.0,121.0,903.0,26.0,18.0,1630.0,06,Sacramento,007432,3.1,2.7,2.4,18.3
+Census Tract 74.34; Sacramento County; California,1121.0,5931.0,2619.0,368.0,2127.0,25.0,13.0,1586.0,06,Sacramento,007434,18.9,2.4,6.2,35.9
+Census Tract 74.35; Sacramento County; California,1322.0,2897.0,2043.0,78.0,419.0,0.0,18.0,845.0,06,Sacramento,007435,45.6,2.1,2.7,14.5
+Census Tract 74.36; Sacramento County; California,117.0,2323.0,885.0,239.0,232.0,10.0,15.0,737.0,06,Sacramento,007436,5.0,3.4,10.3,10.0
+Census Tract 74.37; Sacramento County; California,285.0,6362.0,4171.0,473.0,507.0,0.0,16.0,1916.0,06,Sacramento,007437,4.5,0.8,7.4,8.0
+Census Tract 74.38; Sacramento County; California,401.0,3091.0,1689.0,158.0,607.0,0.0,35.0,1191.0,06,Sacramento,007438,13.0,2.9,5.1,19.6
+Census Tract 74.39; Sacramento County; California,178.0,4656.0,2705.0,429.0,733.0,17.0,0.0,1688.0,06,Sacramento,007439,3.8,1.0,9.2,15.7
+Census Tract 75.01; Sacramento County; California,1344.0,7498.0,4630.0,705.0,1523.0,62.0,282.0,2814.0,06,Sacramento,007501,17.9,12.2,9.4,20.3
+Census Tract 75.03; Sacramento County; California,1003.0,5486.0,2842.0,344.0,1170.0,67.0,42.0,2186.0,06,Sacramento,007503,18.3,5.0,6.3,21.3
+Census Tract 75.04; Sacramento County; California,239.0,1825.0,1110.0,149.0,439.0,11.0,37.0,756.0,06,Sacramento,007504,13.1,6.3,8.2,24.1
+Census Tract 76.02; Sacramento County; California,649.0,4969.0,3286.0,543.0,633.0,9.0,224.0,1996.0,06,Sacramento,007602,13.1,11.7,10.9,12.7
+Census Tract 76.03; Sacramento County; California,150.0,2921.0,1909.0,72.0,463.0,33.0,139.0,1199.0,06,Sacramento,007603,5.1,14.3,2.5,15.9
+Census Tract 76.04; Sacramento County; California,313.0,4447.0,2362.0,249.0,1155.0,43.0,63.0,1631.0,06,Sacramento,007604,7.0,6.5,5.6,26.0
+Census Tract 77.01; Sacramento County; California,1793.0,7083.0,3351.0,690.0,1390.0,31.0,135.0,2878.0,06,Sacramento,007701,25.3,5.8,9.7,19.6
+Census Tract 77.02; Sacramento County; California,446.0,3846.0,2721.0,50.0,832.0,23.0,194.0,1856.0,06,Sacramento,007702,11.6,11.7,1.3,21.6
+Census Tract 78.01; Sacramento County; California,897.0,5716.0,3681.0,257.0,1007.0,19.0,165.0,2422.0,06,Sacramento,007801,15.7,7.6,4.5,17.6
+Census Tract 78.02; Sacramento County; California,346.0,4822.0,3700.0,119.0,720.0,20.0,77.0,2080.0,06,Sacramento,007802,7.2,4.7,2.5,14.9
+Census Tract 79.03; Sacramento County; California,421.0,4772.0,3888.0,89.0,468.0,8.0,42.0,1910.0,06,Sacramento,007903,8.8,2.6,1.9,9.8
+Census Tract 79.04; Sacramento County; California,318.0,5861.0,3825.0,73.0,823.0,10.0,17.0,1995.0,06,Sacramento,007904,5.4,1.4,1.2,14.0
+Census Tract 79.05; Sacramento County; California,513.0,4548.0,3330.0,8.0,571.0,19.0,21.0,1633.0,06,Sacramento,007905,11.3,2.4,0.2,12.6
+Census Tract 79.06; Sacramento County; California,188.0,3534.0,2498.0,114.0,502.0,7.0,14.0,1434.0,06,Sacramento,007906,5.3,1.5,3.2,14.2
+Census Tract 80.05; Sacramento County; California,286.0,4627.0,3541.0,69.0,570.0,0.0,35.0,1773.0,06,Sacramento,008005,6.2,2.0,1.5,12.3
+Census Tract 80.06; Sacramento County; California,309.0,4926.0,3800.0,108.0,437.0,12.0,55.0,2172.0,06,Sacramento,008006,6.3,3.1,2.2,8.9
+Census Tract 80.07; Sacramento County; California,600.0,3422.0,2127.0,92.0,729.0,30.0,129.0,1403.0,06,Sacramento,008007,17.5,11.3,2.7,21.3
+Census Tract 80.08; Sacramento County; California,401.0,4898.0,3577.0,188.0,679.0,94.0,18.0,1917.0,06,Sacramento,008008,8.2,5.8,3.8,13.9
+Census Tract 80.09; Sacramento County; California,260.0,4362.0,3196.0,80.0,702.0,49.0,10.0,1992.0,06,Sacramento,008009,6.0,3.0,1.8,16.1
+Census Tract 80.10; Sacramento County; California,350.0,6426.0,5223.0,21.0,841.0,0.0,0.0,2385.0,06,Sacramento,008010,5.4,0.0,0.3,13.1
+Census Tract 81.11; Sacramento County; California,615.0,5868.0,4305.0,59.0,901.0,0.0,27.0,2314.0,06,Sacramento,008111,10.5,1.2,1.0,15.4
+Census Tract 81.13; Sacramento County; California,307.0,3793.0,2727.0,87.0,683.0,6.0,19.0,1445.0,06,Sacramento,008113,8.1,1.7,2.3,18.0
+Census Tract 81.17; Sacramento County; California,159.0,2318.0,1695.0,58.0,409.0,0.0,28.0,835.0,06,Sacramento,008117,6.9,3.4,2.5,17.6
+Census Tract 81.19; Sacramento County; California,554.0,6418.0,3155.0,239.0,2463.0,0.0,72.0,2167.0,06,Sacramento,008119,8.6,3.3,3.7,38.4
+Census Tract 81.20; Sacramento County; California,363.0,5313.0,3477.0,154.0,1005.0,9.0,130.0,2032.0,06,Sacramento,008120,6.8,6.8,2.9,18.9
+Census Tract 81.22; Sacramento County; California,452.0,3665.0,2377.0,144.0,549.0,11.0,33.0,1339.0,06,Sacramento,008122,12.3,3.3,3.9,15.0
+Census Tract 81.24; Sacramento County; California,248.0,4968.0,4282.0,34.0,521.0,21.0,0.0,1647.0,06,Sacramento,008124,5.0,1.3,0.7,10.5
+Census Tract 81.25; Sacramento County; California,328.0,5246.0,4204.0,46.0,667.0,63.0,0.0,1926.0,06,Sacramento,008125,6.3,3.3,0.9,12.7
+Census Tract 81.27; Sacramento County; California,383.0,4553.0,3053.0,67.0,990.0,21.0,0.0,1641.0,06,Sacramento,008127,8.4,1.3,1.5,21.7
+Census Tract 81.28; Sacramento County; California,272.0,2274.0,1357.0,0.0,586.0,10.0,3.0,851.0,06,Sacramento,008128,12.0,1.5,0.0,25.8
+Census Tract 81.29; Sacramento County; California,233.0,2864.0,1853.0,256.0,597.0,18.0,9.0,1106.0,06,Sacramento,008129,8.1,2.4,8.9,20.8
+Census Tract 81.30; Sacramento County; California,323.0,4010.0,2363.0,142.0,845.0,25.0,10.0,1385.0,06,Sacramento,008130,8.1,2.5,3.5,21.1
+Census Tract 81.31; Sacramento County; California,759.0,4903.0,3071.0,238.0,929.0,30.0,0.0,2231.0,06,Sacramento,008131,15.5,1.3,4.9,18.9
+Census Tract 81.32; Sacramento County; California,375.0,4172.0,2768.0,28.0,512.0,52.0,23.0,1456.0,06,Sacramento,008132,9.0,5.2,0.7,12.3
+Census Tract 81.33; Sacramento County; California,378.0,2465.0,1648.0,205.0,308.0,40.0,96.0,1141.0,06,Sacramento,008133,15.3,11.9,8.3,12.5
+Census Tract 81.34; Sacramento County; California,456.0,5215.0,3784.0,182.0,639.0,35.0,95.0,2022.0,06,Sacramento,008134,8.7,6.4,3.5,12.3
+Census Tract 81.35; Sacramento County; California,731.0,4831.0,2948.0,44.0,795.0,64.0,161.0,2172.0,06,Sacramento,008135,15.1,10.4,0.9,16.5
+Census Tract 81.36; Sacramento County; California,443.0,3078.0,2482.0,46.0,341.0,7.0,64.0,1259.0,06,Sacramento,008136,14.4,5.6,1.5,11.1
+Census Tract 81.37; Sacramento County; California,187.0,2404.0,1887.0,187.0,167.0,19.0,67.0,950.0,06,Sacramento,008137,7.8,9.1,7.8,6.9
+Census Tract 81.38; Sacramento County; California,685.0,4931.0,2404.0,223.0,1954.0,39.0,78.0,1456.0,06,Sacramento,008138,13.9,8.0,4.5,39.6
+Census Tract 81.39; Sacramento County; California,662.0,3421.0,2412.0,191.0,450.0,27.0,52.0,1632.0,06,Sacramento,008139,19.4,4.8,5.6,13.2
+Census Tract 81.40; Sacramento County; California,226.0,2293.0,1707.0,114.0,297.0,7.0,101.0,989.0,06,Sacramento,008140,9.9,10.9,5.0,13.0
+Census Tract 81.41; Sacramento County; California,880.0,7127.0,4156.0,391.0,2122.0,0.0,136.0,2646.0,06,Sacramento,008141,12.3,5.1,5.5,29.8
+Census Tract 81.42; Sacramento County; California,602.0,3538.0,2373.0,110.0,760.0,19.0,27.0,1408.0,06,Sacramento,008142,17.0,3.3,3.1,21.5
+Census Tract 81.43; Sacramento County; California,345.0,3888.0,2786.0,191.0,597.0,16.0,11.0,1529.0,06,Sacramento,008143,8.9,1.8,4.9,15.4
+Census Tract 81.44; Sacramento County; California,77.0,3315.0,2369.0,41.0,415.0,10.0,33.0,1119.0,06,Sacramento,008144,2.3,3.8,1.2,12.5
+Census Tract 81.45; Sacramento County; California,918.0,7756.0,5717.0,149.0,1154.0,32.0,33.0,2655.0,06,Sacramento,008145,11.8,2.4,1.9,14.9
+Census Tract 82.03; Sacramento County; California,462.0,4998.0,3920.0,15.0,682.0,18.0,179.0,2006.0,06,Sacramento,008203,9.2,9.8,0.3,13.6
+Census Tract 82.04; Sacramento County; California,534.0,4957.0,3659.0,60.0,944.0,46.0,14.0,1620.0,06,Sacramento,008204,10.8,3.7,1.2,19.0
+Census Tract 82.06; Sacramento County; California,644.0,6157.0,4721.0,125.0,757.0,149.0,18.0,2410.0,06,Sacramento,008206,10.5,6.9,2.0,12.3
+Census Tract 82.07; Sacramento County; California,134.0,4331.0,3726.0,11.0,304.0,18.0,7.0,1787.0,06,Sacramento,008207,3.1,1.4,0.3,7.0
+Census Tract 82.08; Sacramento County; California,444.0,4208.0,2861.0,26.0,667.0,27.0,10.0,1803.0,06,Sacramento,008208,10.6,2.1,0.6,15.9
+Census Tract 82.09; Sacramento County; California,298.0,4616.0,3323.0,77.0,596.0,10.0,49.0,1827.0,06,Sacramento,008209,6.5,3.2,1.7,12.9
+Census Tract 82.10; Sacramento County; California,158.0,5773.0,3912.0,4.0,912.0,65.0,0.0,2614.0,06,Sacramento,008210,2.7,2.5,0.1,15.8
+Census Tract 82.11; Sacramento County; California,316.0,2648.0,1873.0,47.0,190.0,58.0,17.0,1029.0,06,Sacramento,008211,11.9,7.3,1.8,7.2
+Census Tract 84.02; Sacramento County; California,317.0,5844.0,3901.0,47.0,1367.0,12.0,78.0,2032.0,06,Sacramento,008402,5.4,4.4,0.8,23.4
+Census Tract 84.03; Sacramento County; California,526.0,5673.0,3607.0,197.0,590.0,0.0,159.0,2254.0,06,Sacramento,008403,9.3,7.1,3.5,10.4
+Census Tract 84.04; Sacramento County; California,876.0,4337.0,2888.0,0.0,882.0,9.0,29.0,1704.0,06,Sacramento,008404,20.2,2.2,0.0,20.3
+Census Tract 85.01; Sacramento County; California,185.0,7733.0,4532.0,552.0,897.0,122.0,0.0,2546.0,06,Sacramento,008501,2.4,4.8,7.1,11.6
+Census Tract 85.04; Sacramento County; California,376.0,5242.0,3279.0,158.0,703.0,0.0,17.0,2051.0,06,Sacramento,008504,7.2,0.8,3.0,13.4
+Census Tract 85.05; Sacramento County; California,81.0,1909.0,1155.0,22.0,204.0,0.0,0.0,701.0,06,Sacramento,008505,4.2,0.0,1.2,10.7
+Census Tract 85.06; Sacramento County; California,258.0,2920.0,1368.0,47.0,498.0,0.0,223.0,1503.0,06,Sacramento,008506,8.8,14.8,1.6,17.1
+Census Tract 85.07; Sacramento County; California,140.0,3858.0,1814.0,238.0,684.0,20.0,0.0,1479.0,06,Sacramento,008507,3.6,1.4,6.2,17.7
+Census Tract 85.08; Sacramento County; California,367.0,9287.0,4184.0,163.0,676.0,0.0,129.0,3206.0,06,Sacramento,008508,4.0,4.0,1.8,7.3
+Census Tract 85.09; Sacramento County; California,86.0,4748.0,2912.0,43.0,582.0,39.0,0.0,1519.0,06,Sacramento,008509,1.8,2.6,0.9,12.3
+Census Tract 85.10; Sacramento County; California,180.0,5024.0,2871.0,36.0,751.0,24.0,0.0,1625.0,06,Sacramento,008510,3.6,1.5,0.7,14.9
+Census Tract 85.12; Sacramento County; California,0.0,4938.0,2904.0,103.0,373.0,7.0,8.0,1675.0,06,Sacramento,008512,0.0,0.9,2.1,7.6
+Census Tract 85.13; Sacramento County; California,186.0,4350.0,1825.0,99.0,699.0,9.0,0.0,1538.0,06,Sacramento,008513,4.3,0.6,2.3,16.1
+Census Tract 86.01; Sacramento County; California,216.0,5452.0,3760.0,326.0,967.0,37.0,0.0,2250.0,06,Sacramento,008601,4.0,1.6,6.0,17.7
+Census Tract 86.02; Sacramento County; California,54.0,1677.0,861.0,4.0,435.0,12.0,51.0,702.0,06,Sacramento,008602,3.2,9.0,0.2,25.9
+Census Tract 87.02; Sacramento County; California,44.0,3147.0,2442.0,0.0,212.0,16.0,0.0,1424.0,06,Sacramento,008702,1.4,1.1,0.0,6.7
+Census Tract 87.03; Sacramento County; California,179.0,4953.0,3298.0,192.0,209.0,67.0,74.0,2155.0,06,Sacramento,008703,3.6,6.5,3.9,4.2
+Census Tract 87.04; Sacramento County; California,155.0,3273.0,1355.0,357.0,368.0,0.0,0.0,899.0,06,Sacramento,008704,4.7,0.0,10.9,11.2
+Census Tract 87.06; Sacramento County; California,11.0,1699.0,512.0,341.0,379.0,0.0,0.0,434.0,06,Sacramento,008706,0.6,0.0,20.1,22.3
+Census Tract 87.07; Sacramento County; California,285.0,6699.0,2963.0,507.0,992.0,34.0,0.0,1888.0,06,Sacramento,008707,4.3,1.8,7.6,14.8
+Census Tract 87.08; Sacramento County; California,63.0,2967.0,1265.0,143.0,290.0,10.0,41.0,1000.0,06,Sacramento,008708,2.1,5.1,4.8,9.8
+Census Tract 88.02; Sacramento County; California,80.0,2938.0,1511.0,110.0,488.0,6.0,0.0,862.0,06,Sacramento,008802,2.7,0.7,3.7,16.6
+Census Tract 88.03; Sacramento County; California,445.0,2016.0,1013.0,364.0,487.0,11.0,164.0,756.0,06,Sacramento,008803,22.1,23.1,18.1,24.2
+Census Tract 89.05; Sacramento County; California,495.0,4907.0,2247.0,559.0,1536.0,27.0,117.0,1622.0,06,Sacramento,008905,10.1,8.9,11.4,31.3
+Census Tract 89.07; Sacramento County; California,886.0,6209.0,3984.0,391.0,1068.0,12.0,298.0,2014.0,06,Sacramento,008907,14.3,15.4,6.3,17.2
+Census Tract 89.08; Sacramento County; California,632.0,4785.0,2586.0,326.0,1189.0,111.0,78.0,2003.0,06,Sacramento,008908,13.2,9.4,6.8,24.8
+Census Tract 89.09; Sacramento County; California,583.0,2370.0,957.0,200.0,424.0,5.0,7.0,885.0,06,Sacramento,008909,24.6,1.4,8.4,17.9
+Census Tract 89.10; Sacramento County; California,280.0,3316.0,1850.0,90.0,878.0,5.0,40.0,1309.0,06,Sacramento,008910,8.4,3.4,2.7,26.5
+Census Tract 89.11; Sacramento County; California,1007.0,2876.0,904.0,288.0,1046.0,0.0,51.0,876.0,06,Sacramento,008911,35.0,5.8,10.0,36.4
+Census Tract 89.12; Sacramento County; California,190.0,3207.0,1966.0,165.0,475.0,5.0,7.0,1291.0,06,Sacramento,008912,5.9,0.9,5.1,14.8
+Census Tract 89.13; Sacramento County; California,250.0,4412.0,2926.0,187.0,681.0,21.0,99.0,1621.0,06,Sacramento,008913,5.7,7.4,4.2,15.4
+Census Tract 90.04; Sacramento County; California,581.0,3847.0,1855.0,337.0,881.0,0.0,51.0,1228.0,06,Sacramento,009004,15.1,4.2,8.8,22.9
+Census Tract 90.05; Sacramento County; California,693.0,3413.0,1292.0,383.0,974.0,12.0,114.0,1234.0,06,Sacramento,009005,20.3,10.2,11.2,28.5
+Census Tract 90.06; Sacramento County; California,557.0,5051.0,2437.0,916.0,1220.0,99.0,68.0,1811.0,06,Sacramento,009006,11.0,9.2,18.1,24.2
+Census Tract 90.07; Sacramento County; California,191.0,2316.0,532.0,566.0,766.0,10.0,136.0,991.0,06,Sacramento,009007,8.2,14.7,24.4,33.1
+Census Tract 90.08; Sacramento County; California,1261.0,5704.0,2292.0,640.0,1987.0,21.0,95.0,1866.0,06,Sacramento,009008,22.1,6.2,11.2,34.8
+Census Tract 90.10; Sacramento County; California,697.0,6687.0,2486.0,1593.0,1129.0,26.0,109.0,2662.0,06,Sacramento,009010,10.4,5.1,23.8,16.9
+Census Tract 90.11; Sacramento County; California,207.0,5364.0,2501.0,177.0,665.0,8.0,8.0,1812.0,06,Sacramento,009011,3.9,0.9,3.3,12.4
+Census Tract 91.03; Sacramento County; California,89.0,3116.0,1436.0,486.0,619.0,10.0,65.0,1267.0,06,Sacramento,009103,2.9,5.9,15.6,19.9
+Census Tract 91.05; Sacramento County; California,538.0,2801.0,858.0,95.0,1153.0,6.0,7.0,1035.0,06,Sacramento,009105,19.2,1.3,3.4,41.2
+Census Tract 91.06; Sacramento County; California,376.0,4147.0,2157.0,540.0,633.0,0.0,120.0,1876.0,06,Sacramento,009106,9.1,6.4,13.0,15.3
+Census Tract 91.07; Sacramento County; California,336.0,4138.0,2269.0,505.0,918.0,0.0,0.0,1418.0,06,Sacramento,009107,8.1,0.0,12.2,22.2
+Census Tract 91.08; Sacramento County; California,258.0,3857.0,2247.0,216.0,625.0,51.0,46.0,1484.0,06,Sacramento,009108,6.7,6.5,5.6,16.2
+Census Tract 91.09; Sacramento County; California,404.0,4935.0,2542.0,416.0,930.0,20.0,32.0,1705.0,06,Sacramento,009109,8.2,3.0,8.4,18.8
+Census Tract 91.10; Sacramento County; California,588.0,2059.0,495.0,710.0,682.0,0.0,68.0,784.0,06,Sacramento,009110,28.6,8.7,34.5,33.1
+Census Tract 91.11; Sacramento County; California,997.0,5607.0,2312.0,936.0,892.0,11.0,30.0,2185.0,06,Sacramento,009111,17.8,1.9,16.7,15.9
+Census Tract 91.12; Sacramento County; California,596.0,4083.0,1374.0,722.0,908.0,52.0,12.0,1388.0,06,Sacramento,009112,14.6,4.6,17.7,22.2
+Census Tract 92.01; Sacramento County; California,790.0,6138.0,1537.0,494.0,1597.0,24.0,95.0,2161.0,06,Sacramento,009201,12.9,5.5,8.0,26.0
+Census Tract 93.07; Sacramento County; California,433.0,5507.0,3018.0,524.0,918.0,37.0,77.0,1800.0,06,Sacramento,009307,7.9,6.3,9.5,16.7
+Census Tract 93.08; Sacramento County; California,570.0,7031.0,4166.0,291.0,1622.0,33.0,40.0,2460.0,06,Sacramento,009308,8.1,3.0,4.1,23.1
+Census Tract 93.09; Sacramento County; California,288.0,2383.0,1349.0,69.0,485.0,46.0,0.0,855.0,06,Sacramento,009309,12.1,5.4,2.9,20.4
+Census Tract 93.10; Sacramento County; California,686.0,6621.0,3660.0,300.0,1582.0,56.0,53.0,2321.0,06,Sacramento,009310,10.4,4.7,4.5,23.9
+Census Tract 93.11; Sacramento County; California,979.0,6856.0,2011.0,591.0,1520.0,0.0,43.0,1971.0,06,Sacramento,009311,14.3,2.2,8.6,22.2
+Census Tract 93.12; Sacramento County; California,1629.0,7297.0,1216.0,291.0,1723.0,47.0,0.0,2067.0,06,Sacramento,009312,22.3,2.3,4.0,23.6
+Census Tract 93.14; Sacramento County; California,1232.0,6222.0,1592.0,623.0,928.0,17.0,54.0,1811.0,06,Sacramento,009314,19.8,3.9,10.0,14.9
+Census Tract 93.16; Sacramento County; California,632.0,5039.0,717.0,440.0,938.0,35.0,0.0,1238.0,06,Sacramento,009316,12.5,2.8,8.7,18.6
+Census Tract 93.17; Sacramento County; California,499.0,6301.0,1706.0,974.0,1600.0,66.0,133.0,2095.0,06,Sacramento,009317,7.9,9.5,15.5,25.4
+Census Tract 93.18; Sacramento County; California,282.0,1979.0,198.0,218.0,467.0,34.0,7.0,621.0,06,Sacramento,009318,14.2,6.6,11.0,23.6
+Census Tract 93.19; Sacramento County; California,377.0,4703.0,799.0,111.0,1077.0,51.0,11.0,1398.0,06,Sacramento,009319,8.0,4.4,2.4,22.9
+Census Tract 93.20; Sacramento County; California,737.0,4266.0,593.0,832.0,1262.0,0.0,69.0,1363.0,06,Sacramento,009320,17.3,5.1,19.5,29.6
+Census Tract 93.21; Sacramento County; California,907.0,5663.0,947.0,260.0,1551.0,0.0,23.0,1578.0,06,Sacramento,009321,16.0,1.5,4.6,27.4
+Census Tract 93.23; Sacramento County; California,473.0,5724.0,2719.0,695.0,628.0,17.0,42.0,1771.0,06,Sacramento,009323,8.3,3.3,12.1,11.0
+Census Tract 93.26; Sacramento County; California,113.0,4401.0,1469.0,484.0,538.0,60.0,0.0,1291.0,06,Sacramento,009326,2.6,4.6,11.0,12.2
+Census Tract 93.28; Sacramento County; California,362.0,6011.0,1742.0,553.0,1205.0,20.0,0.0,1624.0,06,Sacramento,009328,6.0,1.2,9.2,20.0
+Census Tract 93.29; Sacramento County; California,474.0,2388.0,480.0,361.0,440.0,0.0,63.0,745.0,06,Sacramento,009329,19.8,8.5,15.1,18.4
+Census Tract 93.30; Sacramento County; California,154.0,5261.0,1914.0,393.0,848.0,23.0,0.0,1408.0,06,Sacramento,009330,2.9,1.6,7.5,16.1
+Census Tract 93.31; Sacramento County; California,260.0,7634.0,2606.0,928.0,1139.0,35.0,0.0,2158.0,06,Sacramento,009331,3.4,1.6,12.2,14.9
+Census Tract 93.32; Sacramento County; California,14.0,1648.0,660.0,39.0,62.0,29.0,6.0,410.0,06,Sacramento,009332,0.8,8.5,2.4,3.8
+Census Tract 93.33; Sacramento County; California,337.0,2509.0,813.0,77.0,235.0,34.0,31.0,780.0,06,Sacramento,009333,13.4,8.3,3.1,9.4
+Census Tract 93.34; Sacramento County; California,350.0,5634.0,1207.0,689.0,714.0,60.0,0.0,1623.0,06,Sacramento,009334,6.2,3.7,12.2,12.7
+Census Tract 93.35; Sacramento County; California,560.0,6675.0,796.0,1077.0,1629.0,0.0,22.0,1697.0,06,Sacramento,009335,8.4,1.3,16.1,24.4
+Census Tract 93.36; Sacramento County; California,89.0,4233.0,2248.0,63.0,980.0,0.0,3.0,1309.0,06,Sacramento,009336,2.1,0.2,1.5,23.2
+Census Tract 94.03; Sacramento County; California,226.0,2122.0,1518.0,12.0,557.0,5.0,2.0,705.0,06,Sacramento,009403,10.7,1.0,0.6,26.2
+Census Tract 94.04; Sacramento County; California,375.0,6794.0,4023.0,41.0,1892.0,41.0,6.0,2104.0,06,Sacramento,009404,5.5,2.2,0.6,27.8
+Census Tract 94.06; Sacramento County; California,198.0,2470.0,1587.0,198.0,521.0,26.0,0.0,831.0,06,Sacramento,009406,8.0,3.1,8.0,21.1
+Census Tract 94.08; Sacramento County; California,139.0,1776.0,1183.0,14.0,412.0,126.0,0.0,627.0,06,Sacramento,009408,7.8,20.1,0.8,23.2
+Census Tract 94.09; Sacramento County; California,460.0,4170.0,1852.0,336.0,1535.0,18.0,69.0,1245.0,06,Sacramento,009409,11.0,7.0,8.1,36.8
+Census Tract 94.10; Sacramento County; California,127.0,6385.0,3021.0,57.0,2764.0,76.0,78.0,2144.0,06,Sacramento,009410,2.0,7.2,0.9,43.3
+Census Tract 95.01; Sacramento County; California,314.0,2518.0,837.0,49.0,1554.0,18.0,42.0,787.0,06,Sacramento,009501,12.5,7.6,1.9,61.7
+Census Tract 95.02; Sacramento County; California,285.0,8035.0,4503.0,36.0,2909.0,0.0,0.0,2307.0,06,Sacramento,009502,3.5,0.0,0.4,36.2
+Census Tract 95.03; Sacramento County; California,454.0,2642.0,1005.0,12.0,1360.0,31.0,79.0,1202.0,06,Sacramento,009503,17.2,9.2,0.5,51.5
+Census Tract 95.04; Sacramento County; California,280.0,3156.0,1152.0,58.0,1617.0,0.0,62.0,928.0,06,Sacramento,009504,8.9,6.7,1.8,51.2
+Census Tract 96.01; Sacramento County; California,930.0,6833.0,371.0,1298.0,2245.0,17.0,22.0,1858.0,06,Sacramento,009601,13.6,2.1,19.0,32.9
+Census Tract 96.08; Sacramento County; California,1986.0,10304.0,1402.0,1854.0,1853.0,128.0,133.0,3262.0,06,Sacramento,009608,19.3,8.0,18.0,18.0
+Census Tract 96.09; Sacramento County; California,866.0,5807.0,969.0,1327.0,1447.0,0.0,23.0,1708.0,06,Sacramento,009609,14.9,1.3,22.9,24.9
+Census Tract 96.10; Sacramento County; California,1122.0,6879.0,1361.0,766.0,2217.0,20.0,72.0,1727.0,06,Sacramento,009610,16.3,5.3,11.1,32.2
+Census Tract 96.11; Sacramento County; California,653.0,3975.0,1078.0,617.0,522.0,24.0,53.0,1200.0,06,Sacramento,009611,16.4,6.4,15.5,13.1
+Census Tract 96.12; Sacramento County; California,683.0,5253.0,1137.0,855.0,1455.0,54.0,28.0,1812.0,06,Sacramento,009612,13.0,4.5,16.3,27.7
+Census Tract 96.14; Sacramento County; California,405.0,6363.0,1631.0,956.0,1420.0,0.0,0.0,2061.0,06,Sacramento,009614,6.4,0.0,15.0,22.3
+Census Tract 96.16; Sacramento County; California,665.0,6646.0,1935.0,1223.0,1728.0,31.0,153.0,2548.0,06,Sacramento,009616,10.0,7.2,18.4,26.0
+Census Tract 96.17; Sacramento County; California,448.0,4026.0,2398.0,208.0,736.0,32.0,22.0,1318.0,06,Sacramento,009617,11.1,4.1,5.2,18.3
+Census Tract 96.18; Sacramento County; California,428.0,4977.0,890.0,917.0,1337.0,15.0,15.0,1534.0,06,Sacramento,009618,8.6,2.0,18.4,26.9
+Census Tract 96.22; Sacramento County; California,103.0,7970.0,3480.0,602.0,1469.0,33.0,18.0,2698.0,06,Sacramento,009622,1.3,1.9,7.6,18.4
+Census Tract 96.32; Sacramento County; California,681.0,6932.0,1602.0,709.0,1357.0,5.0,10.0,1975.0,06,Sacramento,009632,9.8,0.8,10.2,19.6
+Census Tract 96.33; Sacramento County; California,422.0,3957.0,525.0,870.0,1321.0,16.0,48.0,1099.0,06,Sacramento,009633,10.7,5.8,22.0,33.4
+Census Tract 96.34; Sacramento County; California,797.0,5120.0,291.0,1219.0,1541.0,23.0,127.0,1615.0,06,Sacramento,009634,15.6,9.3,23.8,30.1
+Census Tract 96.35; Sacramento County; California,741.0,5820.0,1616.0,467.0,1063.0,22.0,0.0,1770.0,06,Sacramento,009635,12.7,1.2,8.0,18.3
+Census Tract 96.37; Sacramento County; California,545.0,6524.0,1155.0,700.0,1191.0,27.0,19.0,1654.0,06,Sacramento,009637,8.4,2.8,10.7,18.3
+Census Tract 96.39; Sacramento County; California,412.0,3495.0,663.0,354.0,548.0,5.0,229.0,1166.0,06,Sacramento,009639,11.8,20.1,10.1,15.7
+Census Tract 96.40; Sacramento County; California,1561.0,4897.0,714.0,1184.0,735.0,0.0,370.0,1341.0,06,Sacramento,009640,31.9,27.6,24.2,15.0
+Census Tract 96.41; Sacramento County; California,898.0,3671.0,807.0,360.0,1128.0,0.0,226.0,1296.0,06,Sacramento,009641,24.5,17.4,9.8,30.7
+Census Tract 96.42; Sacramento County; California,8.0,1553.0,613.0,18.0,506.0,0.0,0.0,634.0,06,Sacramento,009642,0.5,0.0,1.2,32.6
+Census Tract 96.43; Sacramento County; California,613.0,6526.0,2110.0,749.0,2115.0,0.0,0.0,2125.0,06,Sacramento,009643,9.4,0.0,11.5,32.4
+Census Tract 96.44; Sacramento County; California,154.0,3372.0,1384.0,308.0,573.0,0.0,0.0,1426.0,06,Sacramento,009644,4.6,0.0,9.1,17.0
+Census Tract 96.45; Sacramento County; California,393.0,4341.0,1508.0,326.0,305.0,33.0,18.0,1499.0,06,Sacramento,009645,9.1,3.4,7.5,7.0
+Census Tract 96.46; Sacramento County; California,114.0,3854.0,772.0,551.0,1000.0,0.0,0.0,1031.0,06,Sacramento,009646,3.0,0.0,14.3,25.9
+Census Tract 96.47; Sacramento County; California,1121.0,6410.0,1057.0,1473.0,1359.0,39.0,71.0,1879.0,06,Sacramento,009647,17.5,5.9,23.0,21.2
+Census Tract 96.48; Sacramento County; California,944.0,3951.0,818.0,555.0,816.0,0.0,0.0,1043.0,06,Sacramento,009648,23.9,0.0,14.0,20.7
+Census Tract 96.49; Sacramento County; California,423.0,5093.0,1043.0,744.0,728.0,9.0,0.0,1433.0,06,Sacramento,009649,8.3,0.6,14.6,14.3
+Census Tract 96.50; Sacramento County; California,59.0,2912.0,660.0,139.0,211.0,35.0,0.0,856.0,06,Sacramento,009650,2.0,4.1,4.8,7.2
+Census Tract 96.51; Sacramento County; California,464.0,5426.0,1464.0,367.0,1035.0,55.0,0.0,1906.0,06,Sacramento,009651,8.6,2.9,6.8,19.1
+Census Tract 96.52; Sacramento County; California,70.0,3102.0,269.0,424.0,301.0,14.0,17.0,1042.0,06,Sacramento,009652,2.3,3.0,13.7,9.7
+Census Tract 96.53; Sacramento County; California,9.0,1968.0,1086.0,327.0,710.0,0.0,0.0,540.0,06,Sacramento,009653,0.5,0.0,16.6,36.1
+Census Tract 98; Sacramento County; California,441.0,1513.0,1067.0,24.0,348.0,8.0,2.0,794.0,06,Sacramento,009800,29.1,1.3,1.6,23.0
+Census Tract 99; Sacramento County; California,476.0,3502.0,1481.0,18.0,1716.0,34.0,0.0,1269.0,06,Sacramento,009900,13.6,2.7,0.5,49.0
+Census Tract 9883; Sacramento County; California,0.0,24.0,818.0,1765.0,1595.0,0.0,0.0,24.0,06,Sacramento,988300,0.0,0.0,7354.2,6645.8
+Census Tract 101.02; Yolo County; California,247.0,1815.0,1147.0,17.0,609.0,0.0,51.0,535.0,06,Yolo,010102,13.6,9.5,0.9,33.6
+Census Tract 101.03; Yolo County; California,721.0,5045.0,1672.0,241.0,2388.0,133.0,109.0,1547.0,06,Yolo,010103,14.3,15.6,4.8,47.3
+Census Tract 101.04; Yolo County; California,871.0,6199.0,1528.0,138.0,3338.0,0.0,245.0,2102.0,06,Yolo,010104,14.1,11.7,2.2,53.8
+Census Tract 101.05; Yolo County; California,251.0,1321.0,360.0,586.0,190.0,0.0,23.0,597.0,06,Yolo,010105,19.0,3.9,44.4,14.4
+Census Tract 102.01; Yolo County; California,207.0,3365.0,1606.0,0.0,1368.0,5.0,44.0,1586.0,06,Yolo,010201,6.2,3.1,0.0,40.7
+Census Tract 102.03; Yolo County; California,2305.0,5982.0,1621.0,477.0,3463.0,50.0,290.0,2113.0,06,Yolo,010203,38.5,16.1,8.0,57.9
+Census Tract 102.04; Yolo County; California,1438.0,5560.0,2373.0,124.0,2187.0,83.0,321.0,2349.0,06,Yolo,010204,25.9,17.2,2.2,39.3
+Census Tract 103.10; Yolo County; California,655.0,6333.0,2950.0,469.0,1381.0,0.0,7.0,1981.0,06,Yolo,010310,10.3,0.4,7.4,21.8
+Census Tract 103.12; Yolo County; California,385.0,5653.0,3109.0,22.0,1545.0,21.0,46.0,1901.0,06,Yolo,010312,6.8,3.5,0.4,27.3
+Census Tract 103.13; Yolo County; California,92.0,4835.0,2507.0,50.0,898.0,0.0,0.0,1686.0,06,Yolo,010313,1.9,0.0,1.0,18.6
+Census Tract 103.14; Yolo County; California,228.0,2056.0,858.0,24.0,219.0,0.0,37.0,803.0,06,Yolo,010314,11.1,4.6,1.2,10.7
+Census Tract 103.15; Yolo County; California,184.0,1207.0,788.0,0.0,250.0,0.0,0.0,449.0,06,Yolo,010315,15.2,0.0,0.0,20.7
+Census Tract 104.01; Yolo County; California,494.0,4712.0,2852.0,104.0,938.0,0.0,14.0,1765.0,06,Yolo,010401,10.5,0.8,2.2,19.9
+Census Tract 104.02; Yolo County; California,147.0,4638.0,2298.0,245.0,409.0,11.0,0.0,1369.0,06,Yolo,010402,3.2,0.8,5.3,8.8
+Census Tract 105.01; Yolo County; California,2653.0,4103.0,2585.0,260.0,1792.0,22.0,312.0,1526.0,06,Yolo,010501,64.7,21.9,6.3,43.7
+Census Tract 105.05; Yolo County; California,445.0,5114.0,2489.0,121.0,671.0,27.0,57.0,2151.0,06,Yolo,010505,8.7,3.9,2.4,13.1
+Census Tract 105.08; Yolo County; California,316.0,2519.0,1656.0,37.0,266.0,13.0,21.0,1066.0,06,Yolo,010508,12.5,3.2,1.5,10.6
+Census Tract 105.09; Yolo County; California,682.0,3149.0,1785.0,39.0,535.0,16.0,70.0,1164.0,06,Yolo,010509,21.7,7.4,1.2,17.0
+Census Tract 105.10; Yolo County; California,1611.0,5666.0,2628.0,113.0,452.0,20.0,359.0,2219.0,06,Yolo,010510,28.4,17.1,2.0,8.0
+Census Tract 105.11; Yolo County; California,1116.0,3336.0,1442.0,15.0,383.0,16.0,260.0,1203.0,06,Yolo,010511,33.5,22.9,0.4,11.5
+Census Tract 105.12; Yolo County; California,888.0,3429.0,1835.0,82.0,399.0,29.0,19.0,1207.0,06,Yolo,010512,25.9,4.0,2.4,11.6
+Census Tract 105.13; Yolo County; California,1346.0,3095.0,1919.0,53.0,390.0,10.0,38.0,1203.0,06,Yolo,010513,43.5,4.0,1.7,12.6
+Census Tract 106.02; Yolo County; California,1872.0,5686.0,2943.0,182.0,1155.0,27.0,218.0,2333.0,06,Yolo,010602,32.9,10.5,3.2,20.3
+Census Tract 106.05; Yolo County; California,366.0,3536.0,1757.0,25.0,452.0,7.0,11.0,1188.0,06,Yolo,010605,10.4,1.5,0.7,12.8
+Census Tract 106.07; Yolo County; California,360.0,4104.0,2380.0,280.0,431.0,16.0,29.0,1595.0,06,Yolo,010607,8.8,2.8,6.8,10.5
+Census Tract 106.08; Yolo County; California,2456.0,5866.0,2479.0,22.0,1358.0,7.0,212.0,2064.0,06,Yolo,010608,41.9,10.6,0.4,23.2
+Census Tract 106.09; Yolo County; California,132.0,2430.0,1648.0,1.0,274.0,0.0,34.0,837.0,06,Yolo,010609,5.4,4.1,0.0,11.3
+Census Tract 106.10; Yolo County; California,1280.0,4000.0,1845.0,106.0,849.0,124.0,92.0,1491.0,06,Yolo,010610,32.0,14.5,2.6,21.2
+Census Tract 106.11; Yolo County; California,194.0,1505.0,891.0,42.0,263.0,5.0,20.0,595.0,06,Yolo,010611,12.9,4.2,2.8,17.5
+Census Tract 107.01; Yolo County; California,1327.0,4300.0,2963.0,45.0,584.0,0.0,167.0,2201.0,06,Yolo,010701,30.9,7.6,1.0,13.6
+Census Tract 107.03; Yolo County; California,2259.0,4770.0,2554.0,48.0,680.0,8.0,347.0,1896.0,06,Yolo,010703,47.4,18.7,1.0,14.3
+Census Tract 107.04; Yolo County; California,760.0,2523.0,1609.0,100.0,370.0,13.0,127.0,958.0,06,Yolo,010704,30.1,14.6,4.0,14.7
+Census Tract 108; Yolo County; California,441.0,3327.0,1021.0,128.0,1878.0,10.0,171.0,1280.0,06,Yolo,010800,13.3,14.1,3.8,56.4
+Census Tract 109.01; Yolo County; California,936.0,5527.0,1638.0,77.0,3482.0,11.0,92.0,1906.0,06,Yolo,010901,16.9,5.4,1.4,63.0
+Census Tract 109.02; Yolo County; California,618.0,6095.0,2116.0,78.0,3428.0,17.0,72.0,2335.0,06,Yolo,010902,10.1,3.8,1.3,56.2
+Census Tract 110.01; Yolo County; California,617.0,6052.0,2079.0,78.0,3711.0,48.0,415.0,2483.0,06,Yolo,011001,10.2,18.6,1.3,61.3
+Census Tract 110.02; Yolo County; California,245.0,3165.0,1856.0,44.0,971.0,47.0,76.0,1416.0,06,Yolo,011002,7.7,8.7,1.4,30.7
+Census Tract 111.01; Yolo County; California,626.0,3122.0,1393.0,0.0,1659.0,62.0,131.0,1126.0,06,Yolo,011101,20.1,17.1,0.0,53.1
+Census Tract 111.02; Yolo County; California,171.0,5098.0,973.0,49.0,3275.0,8.0,28.0,1584.0,06,Yolo,011102,3.4,2.3,1.0,64.2
+Census Tract 111.03; Yolo County; California,184.0,3529.0,1342.0,6.0,1870.0,6.0,15.0,1212.0,06,Yolo,011103,5.2,1.7,0.2,53.0
+Census Tract 112.03; Yolo County; California,172.0,3346.0,1476.0,0.0,1573.0,0.0,0.0,1107.0,06,Yolo,011203,5.1,0.0,0.0,47.0
+Census Tract 112.04; Yolo County; California,372.0,5959.0,2399.0,57.0,2877.0,13.0,9.0,2029.0,06,Yolo,011204,6.2,1.1,1.0,48.3
+Census Tract 112.07; Yolo County; California,147.0,2541.0,1530.0,3.0,886.0,22.0,0.0,908.0,06,Yolo,011207,5.8,2.4,0.1,34.9
+Census Tract 112.08; Yolo County; California,232.0,7344.0,3566.0,299.0,2294.0,20.0,43.0,2322.0,06,Yolo,011208,3.2,2.7,4.1,31.2
+Census Tract 112.09; Yolo County; California,484.0,3536.0,1063.0,11.0,1669.0,14.0,19.0,1158.0,06,Yolo,011209,13.7,2.8,0.3,47.2
+Census Tract 112.10; Yolo County; California,373.0,2577.0,656.0,139.0,1150.0,16.0,0.0,714.0,06,Yolo,011210,14.5,2.2,5.4,44.6
+Census Tract 112.11; Yolo County; California,175.0,1921.0,1068.0,0.0,627.0,0.0,0.0,528.0,06,Yolo,011211,9.1,0.0,0.0,32.6
+Census Tract 113.01; Yolo County; California,527.0,2054.0,1283.0,44.0,516.0,0.0,50.0,672.0,06,Yolo,011301,25.7,7.4,2.1,25.1
+Census Tract 113.02; Yolo County; California,67.0,3644.0,1543.0,31.0,1939.0,6.0,40.0,1140.0,06,Yolo,011302,1.8,4.0,0.9,53.2
+Census Tract 113.03; Yolo County; California,250.0,1749.0,1182.0,0.0,551.0,0.0,46.0,627.0,06,Yolo,011303,14.3,7.3,0.0,31.5
+Census Tract 113.04; Yolo County; California,130.0,1370.0,497.0,0.0,852.0,0.0,13.0,461.0,06,Yolo,011304,9.5,2.8,0.0,62.2
+Census Tract 114; Yolo County; California,774.0,4178.0,1641.0,19.0,2121.0,23.0,62.0,1548.0,06,Yolo,011400,18.5,5.5,0.5,50.8
+Census Tract 115; Yolo County; California,692.0,5643.0,2804.0,264.0,2173.0,57.0,10.0,1871.0,06,Yolo,011500,12.3,3.6,4.7,38.5
+Census Tract 201.04; Placer County; California,18.0,1265.0,986.0,49.0,111.0,21.0,0.0,525.0,06,Placer,020104,1.4,4.0,3.9,8.8
+Census Tract 201.05; Placer County; California,37.0,1482.0,1209.0,11.0,112.0,10.0,0.0,623.0,06,Placer,020105,2.5,1.6,0.7,7.6
+Census Tract 201.06; Placer County; California,111.0,1295.0,991.0,0.0,257.0,0.0,0.0,568.0,06,Placer,020106,8.6,0.0,0.0,19.8
+Census Tract 201.07; Placer County; California,455.0,2465.0,1097.0,0.0,1349.0,40.0,0.0,995.0,06,Placer,020107,18.5,4.0,0.0,54.7
+Census Tract 202; Placer County; California,697.0,6256.0,5119.0,0.0,833.0,55.0,65.0,2620.0,06,Placer,020200,11.1,4.6,0.0,13.3
+Census Tract 203; Placer County; California,1154.0,4325.0,3331.0,0.0,794.0,19.0,168.0,2336.0,06,Placer,020300,26.7,8.0,0.0,18.4
+Census Tract 204.01; Placer County; California,273.0,2382.0,1591.0,52.0,629.0,42.0,35.0,1136.0,06,Placer,020401,11.5,6.8,2.2,26.4
+Census Tract 204.02; Placer County; California,476.0,3531.0,2880.0,20.0,510.0,0.0,85.0,1524.0,06,Placer,020402,13.5,5.6,0.6,14.4
+Census Tract 205.01; Placer County; California,97.0,2795.0,2252.0,12.0,260.0,68.0,0.0,1071.0,06,Placer,020501,3.5,6.3,0.4,9.3
+Census Tract 205.02; Placer County; California,185.0,4284.0,3529.0,24.0,450.0,30.0,9.0,1717.0,06,Placer,020502,4.3,2.3,0.6,10.5
+Census Tract 206.01; Placer County; California,194.0,7251.0,6039.0,26.0,550.0,35.0,0.0,2672.0,06,Placer,020601,2.7,1.3,0.4,7.6
+Census Tract 206.04; Placer County; California,493.0,5938.0,4528.0,345.0,407.0,77.0,0.0,2104.0,06,Placer,020604,8.3,3.7,5.8,6.9
+Census Tract 206.05; Placer County; California,295.0,6065.0,4192.0,294.0,732.0,77.0,55.0,2062.0,06,Placer,020605,4.9,6.4,4.8,12.1
+Census Tract 206.06; Placer County; California,175.0,4321.0,2633.0,100.0,500.0,42.0,0.0,1432.0,06,Placer,020606,4.0,2.9,2.3,11.6
+Census Tract 206.07; Placer County; California,127.0,5745.0,4766.0,18.0,491.0,6.0,0.0,1925.0,06,Placer,020607,2.2,0.3,0.3,8.5
+Census Tract 206.08; Placer County; California,240.0,3737.0,3030.0,1.0,12.0,27.0,0.0,1390.0,06,Placer,020608,6.4,1.9,0.0,0.3
+Census Tract 207.10; Placer County; California,396.0,4872.0,3832.0,1.0,447.0,10.0,54.0,1719.0,06,Placer,020710,8.1,3.7,0.0,9.2
+Census Tract 207.11; Placer County; California,315.0,4721.0,3297.0,104.0,526.0,27.0,229.0,2099.0,06,Placer,020711,6.7,12.2,2.2,11.1
+Census Tract 207.12; Placer County; California,271.0,3280.0,2451.0,47.0,540.0,10.0,173.0,1380.0,06,Placer,020712,8.3,13.3,1.4,16.5
+Census Tract 207.13; Placer County; California,394.0,2932.0,2188.0,105.0,750.0,0.0,181.0,1226.0,06,Placer,020713,13.4,14.8,3.6,25.6
+Census Tract 207.14; Placer County; California,252.0,3602.0,2732.0,17.0,515.0,0.0,0.0,1472.0,06,Placer,020714,7.0,0.0,0.5,14.3
+Census Tract 207.15; Placer County; California,418.0,3016.0,2241.0,11.0,599.0,18.0,0.0,1106.0,06,Placer,020715,13.9,1.6,0.4,19.9
+Census Tract 207.17; Placer County; California,321.0,5344.0,2677.0,171.0,1001.0,116.0,0.0,2212.0,06,Placer,020717,6.0,5.2,3.2,18.7
+Census Tract 208.05; Placer County; California,217.0,4271.0,2575.0,148.0,950.0,36.0,39.0,1644.0,06,Placer,020805,5.1,4.6,3.5,22.2
+Census Tract 208.06; Placer County; California,436.0,3799.0,2558.0,19.0,833.0,13.0,83.0,1700.0,06,Placer,020806,11.5,5.6,0.5,21.9
+Census Tract 209.01; Placer County; California,522.0,2582.0,1272.0,0.0,1156.0,29.0,24.0,1039.0,06,Placer,020901,20.2,5.1,0.0,44.8
+Census Tract 209.08; Placer County; California,696.0,7619.0,3953.0,107.0,2361.0,0.0,55.0,2715.0,06,Placer,020908,9.1,2.0,1.4,31.0
+Census Tract 210.03; Placer County; California,403.0,6996.0,4816.0,188.0,1292.0,32.0,140.0,2965.0,06,Placer,021003,5.8,5.8,2.7,18.5
+Census Tract 210.34; Placer County; California,30.0,4375.0,3071.0,4.0,544.0,11.0,0.0,1438.0,06,Placer,021034,0.7,0.8,0.1,12.4
+Census Tract 210.37; Placer County; California,158.0,2518.0,1539.0,34.0,321.0,11.0,95.0,1024.0,06,Placer,021037,6.3,10.4,1.4,12.7
+Census Tract 210.38; Placer County; California,249.0,7582.0,5420.0,105.0,1182.0,0.0,46.0,2787.0,06,Placer,021038,3.3,1.7,1.4,15.6
+Census Tract 210.39; Placer County; California,85.0,1542.0,1372.0,11.0,65.0,15.0,9.0,930.0,06,Placer,021039,5.5,2.6,0.7,4.2
+Census Tract 210.40; Placer County; California,208.0,3372.0,3034.0,22.0,86.0,125.0,64.0,2013.0,06,Placer,021040,6.2,9.4,0.7,2.6
+Census Tract 210.43; Placer County; California,264.0,4113.0,2917.0,33.0,357.0,35.0,76.0,1382.0,06,Placer,021043,6.4,8.0,0.8,8.7
+Census Tract 210.44; Placer County; California,108.0,5764.0,3818.0,68.0,1014.0,20.0,12.0,1788.0,06,Placer,021044,1.9,1.8,1.2,17.6
+Census Tract 210.45; Placer County; California,403.0,3299.0,2227.0,65.0,491.0,0.0,72.0,1374.0,06,Placer,021045,12.2,5.2,2.0,14.9
+Census Tract 210.46; Placer County; California,567.0,5461.0,3576.0,94.0,1302.0,19.0,252.0,2436.0,06,Placer,021046,10.4,11.1,1.7,23.8
+Census Tract 210.47; Placer County; California,412.0,4449.0,2853.0,89.0,782.0,0.0,34.0,1500.0,06,Placer,021047,9.3,2.3,2.0,17.6
+Census Tract 210.48; Placer County; California,77.0,3316.0,1664.0,62.0,1125.0,18.0,0.0,1222.0,06,Placer,021048,2.3,1.5,1.9,33.9
+Census Tract 211.03; Placer County; California,485.0,4862.0,2844.0,46.0,964.0,52.0,21.0,1938.0,06,Placer,021103,10.0,3.8,0.9,19.8
+Census Tract 211.06; Placer County; California,119.0,2333.0,1700.0,131.0,227.0,18.0,17.0,821.0,06,Placer,021106,5.1,4.3,5.6,9.7
+Census Tract 211.08; Placer County; California,162.0,2877.0,2098.0,64.0,462.0,6.0,32.0,1238.0,06,Placer,021108,5.6,3.1,2.2,16.1
+Census Tract 211.09; Placer County; California,640.0,6128.0,3985.0,84.0,968.0,0.0,24.0,2004.0,06,Placer,021109,10.4,1.2,1.4,15.8
+Census Tract 211.22; Placer County; California,82.0,3499.0,2885.0,11.0,180.0,25.0,0.0,1385.0,06,Placer,021122,2.3,1.8,0.3,5.1
+Census Tract 211.23; Placer County; California,169.0,7245.0,5347.0,95.0,1199.0,23.0,0.0,2580.0,06,Placer,021123,2.3,0.9,1.3,16.5
+Census Tract 211.28; Placer County; California,268.0,3297.0,2354.0,24.0,415.0,11.0,7.0,1230.0,06,Placer,021128,8.1,1.5,0.7,12.6
+Census Tract 211.29; Placer County; California,191.0,3302.0,2499.0,91.0,427.0,12.0,60.0,1357.0,06,Placer,021129,5.8,5.3,2.8,12.9
+Census Tract 211.30; Placer County; California,122.0,2652.0,1399.0,0.0,509.0,0.0,42.0,1090.0,06,Placer,021130,4.6,3.9,0.0,19.2
+Census Tract 211.31; Placer County; California,249.0,5189.0,3491.0,113.0,592.0,29.0,153.0,2130.0,06,Placer,021131,4.8,8.5,2.2,11.4
+Census Tract 212.03; Placer County; California,570.0,7719.0,6153.0,8.0,837.0,129.0,20.0,3137.0,06,Placer,021203,7.4,4.7,0.1,10.8
+Census Tract 212.04; Placer County; California,190.0,2462.0,1940.0,0.0,340.0,5.0,12.0,963.0,06,Placer,021204,7.7,1.8,0.0,13.8
+Census Tract 213.04; Placer County; California,116.0,6025.0,4841.0,213.0,654.0,16.0,0.0,2065.0,06,Placer,021304,1.9,0.8,3.5,10.9
+Census Tract 213.23; Placer County; California,219.0,10597.0,6270.0,120.0,1726.0,0.0,54.0,2987.0,06,Placer,021323,2.1,1.8,1.1,16.3
+Census Tract 213.24; Placer County; California,60.0,6581.0,4815.0,25.0,730.0,12.0,0.0,2120.0,06,Placer,021324,0.9,0.6,0.4,11.1
+Census Tract 213.25; Placer County; California,990.0,8643.0,4716.0,167.0,1316.0,16.0,24.0,3072.0,06,Placer,021325,11.5,1.3,1.9,15.2
+Census Tract 213.26; Placer County; California,116.0,4035.0,2373.0,291.0,282.0,22.0,0.0,1031.0,06,Placer,021326,2.9,2.1,7.2,7.0
+Census Tract 213.27; Placer County; California,224.0,6086.0,3283.0,99.0,825.0,0.0,65.0,2138.0,06,Placer,021327,3.7,3.0,1.6,13.6
+Census Tract 213.28; Placer County; California,379.0,9754.0,5151.0,39.0,890.0,66.0,0.0,2798.0,06,Placer,021328,3.9,2.4,0.4,9.1
+Census Tract 214.01; Placer County; California,317.0,3283.0,2032.0,0.0,1070.0,11.0,29.0,1230.0,06,Placer,021401,9.7,3.3,0.0,32.6
+Census Tract 214.03; Placer County; California,1449.0,5844.0,2806.0,88.0,2279.0,0.0,72.0,2123.0,06,Placer,021403,24.8,3.4,1.5,39.0
+Census Tract 215.01; Placer County; California,433.0,4802.0,3827.0,123.0,716.0,0.0,47.0,2024.0,06,Placer,021501,9.0,2.3,2.6,14.9
+Census Tract 215.02; Placer County; California,386.0,4140.0,3095.0,16.0,407.0,12.0,39.0,1685.0,06,Placer,021502,9.3,3.0,0.4,9.8
+Census Tract 216.03; Placer County; California,473.0,4397.0,2872.0,30.0,1302.0,58.0,155.0,1941.0,06,Placer,021603,10.8,11.0,0.7,29.6
+Census Tract 216.04; Placer County; California,242.0,3681.0,3015.0,6.0,318.0,32.0,0.0,1329.0,06,Placer,021604,6.6,2.4,0.2,8.6
+Census Tract 218.01; Placer County; California,388.0,4680.0,4132.0,10.0,311.0,37.0,0.0,1881.0,06,Placer,021801,8.3,2.0,0.2,6.6
+Census Tract 218.02; Placer County; California,728.0,6410.0,5028.0,24.0,1075.0,62.0,17.0,2446.0,06,Placer,021802,11.4,3.2,0.4,16.8
+Census Tract 219.01; Placer County; California,197.0,3615.0,2907.0,39.0,484.0,37.0,13.0,1301.0,06,Placer,021901,5.4,3.8,1.1,13.4
+Census Tract 219.02; Placer County; California,219.0,4771.0,3925.0,39.0,474.0,28.0,0.0,1786.0,06,Placer,021902,4.6,1.6,0.8,9.9
+Census Tract 220.02; Placer County; California,419.0,6609.0,5101.0,0.0,983.0,87.0,14.0,2685.0,06,Placer,022002,6.3,3.8,0.0,14.9
+Census Tract 220.11; Placer County; California,56.0,1928.0,1603.0,0.0,155.0,13.0,0.0,805.0,06,Placer,022011,2.9,1.6,0.0,8.0
+Census Tract 220.13; Placer County; California,560.0,3040.0,2765.0,5.0,148.0,50.0,20.0,1149.0,06,Placer,022013,18.4,6.1,0.2,4.9
+Census Tract 220.14; Placer County; California,84.0,1651.0,1506.0,7.0,117.0,0.0,10.0,701.0,06,Placer,022014,5.1,1.4,0.4,7.1
+Census Tract 221; Placer County; California,34.0,904.0,830.0,0.0,0.0,0.0,0.0,338.0,06,Placer,022100,3.8,0.0,0.0,0.0
+Census Tract 222; Placer County; California,13.0,762.0,696.0,4.0,53.0,0.0,0.0,368.0,06,Placer,022200,1.7,0.0,0.5,7.0
+Census Tract 223; Placer County; California,51.0,581.0,550.0,6.0,4.0,7.0,0.0,258.0,06,Placer,022300,8.8,2.7,1.0,0.7
+Census Tract 224; Placer County; California,109.0,4547.0,2983.0,39.0,637.0,0.0,97.0,1788.0,06,Placer,022400,2.4,5.4,0.9,14.0
+Census Tract 225; Placer County; California,465.0,4920.0,2310.0,340.0,816.0,21.0,0.0,1557.0,06,Placer,022500,9.5,1.3,6.9,16.6
+Census Tract 226; Placer County; California,264.0,5023.0,3435.0,179.0,654.0,39.0,196.0,2022.0,06,Placer,022600,5.3,11.6,3.6,13.0
+Census Tract 228; Placer County; California,199.0,4711.0,2696.0,164.0,587.0,33.0,20.0,1622.0,06,Placer,022800,4.2,3.3,3.5,12.5
+Census Tract 229; Placer County; California,118.0,5722.0,2885.0,230.0,1122.0,27.0,14.0,1800.0,06,Placer,022900,2.1,2.3,4.0,19.6
+Census Tract 230; Placer County; California,157.0,3713.0,2575.0,36.0,478.0,5.0,0.0,1062.0,06,Placer,023000,4.2,0.5,1.0,12.9
+Census Tract 231; Placer County; California,305.0,8170.0,5445.0,353.0,606.0,49.0,64.0,3104.0,06,Placer,023100,3.7,3.6,4.3,7.4
+Census Tract 232; Placer County; California,240.0,6262.0,4177.0,89.0,1118.0,0.0,0.0,1717.0,06,Placer,023200,3.8,0.0,1.4,17.9
+Census Tract 233; Placer County; California,263.0,6611.0,3604.0,351.0,1433.0,0.0,0.0,2194.0,06,Placer,023300,4.0,0.0,5.3,21.7
+Census Tract 234; Placer County; California,661.0,6164.0,4635.0,10.0,826.0,21.0,0.0,1894.0,06,Placer,023400,10.7,1.1,0.2,13.4
+Census Tract 235.01; Placer County; California,0.0,1134.0,877.0,0.0,57.0,19.0,0.0,418.0,06,Placer,023501,0.0,4.5,0.0,5.0
+Census Tract 235.02; Placer County; California,384.0,5969.0,4061.0,50.0,991.0,0.0,0.0,1848.0,06,Placer,023502,6.4,0.0,0.8,16.6
+Census Tract 236; Placer County; California,204.0,4593.0,4009.0,10.0,286.0,57.0,0.0,2521.0,06,Placer,023600,4.4,2.3,0.2,6.2
+Census Tract 237; Placer County; California,193.0,3136.0,2793.0,0.0,181.0,26.0,21.0,2055.0,06,Placer,023700,6.2,2.3,0.0,5.8
+Census Tract 238; Placer County; California,182.0,3005.0,2360.0,33.0,313.0,42.0,8.0,1905.0,06,Placer,023800,6.1,2.6,1.1,10.4
+Census Tract 239; Placer County; California,73.0,3057.0,2025.0,30.0,689.0,9.0,0.0,1025.0,06,Placer,023900,2.4,0.9,1.0,22.5
+Census Tract 9900; Placer County; California,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,06,Placer,990000,,,,
+Census Tract 302.01; El Dorado County; California,173.0,2514.0,1566.0,17.0,905.0,0.0,10.0,933.0,06,El Dorado,030201,6.9,1.1,0.7,36.0
+Census Tract 302.02; El Dorado County; California,374.0,1998.0,785.0,0.0,1083.0,0.0,105.0,785.0,06,El Dorado,030202,18.7,13.4,0.0,54.2
+Census Tract 303.01; El Dorado County; California,282.0,2788.0,1512.0,8.0,1124.0,0.0,144.0,1177.0,06,El Dorado,030301,10.1,12.2,0.3,40.3
+Census Tract 303.02; El Dorado County; California,296.0,2801.0,1823.0,37.0,421.0,10.0,10.0,1371.0,06,El Dorado,030302,10.6,1.5,1.3,15.0
+Census Tract 304.02; El Dorado County; California,652.0,3442.0,2569.0,35.0,681.0,13.0,204.0,1632.0,06,El Dorado,030402,18.9,13.3,1.0,19.8
+Census Tract 304.03; El Dorado County; California,6.0,1258.0,1148.0,0.0,16.0,0.0,0.0,638.0,06,El Dorado,030403,0.5,0.0,0.0,1.3
+Census Tract 304.04; El Dorado County; California,160.0,2244.0,1588.0,2.0,269.0,45.0,0.0,933.0,06,El Dorado,030404,7.1,4.8,0.1,12.0
+Census Tract 305.02; El Dorado County; California,116.0,2527.0,1945.0,1.0,323.0,8.0,0.0,1132.0,06,El Dorado,030502,4.6,0.7,0.0,12.8
+Census Tract 305.04; El Dorado County; California,118.0,2753.0,2208.0,1.0,343.0,0.0,0.0,1161.0,06,El Dorado,030504,4.3,0.0,0.0,12.5
+Census Tract 305.06; El Dorado County; California,72.0,1043.0,906.0,0.0,21.0,0.0,0.0,362.0,06,El Dorado,030506,6.9,0.0,0.0,2.0
+Census Tract 305.07; El Dorado County; California,119.0,1649.0,1256.0,11.0,236.0,6.0,0.0,627.0,06,El Dorado,030507,7.2,1.0,0.7,14.3
+Census Tract 306.01; El Dorado County; California,400.0,5319.0,4555.0,97.0,405.0,17.0,17.0,2209.0,06,El Dorado,030601,7.5,1.5,1.8,7.6
+Census Tract 306.03; El Dorado County; California,419.0,3651.0,2998.0,25.0,329.0,28.0,33.0,1456.0,06,El Dorado,030603,11.5,4.2,0.7,9.0
+Census Tract 306.04; El Dorado County; California,182.0,918.0,826.0,0.0,75.0,5.0,0.0,443.0,06,El Dorado,030604,19.8,1.1,0.0,8.2
+Census Tract 306.05; El Dorado County; California,218.0,1619.0,1444.0,0.0,145.0,0.0,21.0,747.0,06,El Dorado,030605,13.5,2.8,0.0,9.0
+Census Tract 306.06; El Dorado County; California,520.0,4263.0,3661.0,7.0,541.0,60.0,0.0,1833.0,06,El Dorado,030606,12.2,3.3,0.2,12.7
+Census Tract 307.01; El Dorado County; California,198.0,5439.0,4243.0,5.0,502.0,28.0,16.0,2101.0,06,El Dorado,030701,3.6,2.1,0.1,9.2
+Census Tract 307.06; El Dorado County; California,195.0,5616.0,4197.0,0.0,591.0,0.0,0.0,2091.0,06,El Dorado,030706,3.5,0.0,0.0,10.5
+Census Tract 307.09; El Dorado County; California,148.0,5206.0,4030.0,43.0,443.0,0.0,0.0,1787.0,06,El Dorado,030709,2.8,0.0,0.8,8.5
+Census Tract 307.10; El Dorado County; California,228.0,6091.0,4591.0,0.0,541.0,0.0,0.0,2259.0,06,El Dorado,030710,3.7,0.0,0.0,8.9
+Census Tract 307.11; El Dorado County; California,610.0,6713.0,4609.0,132.0,643.0,61.0,192.0,2679.0,06,El Dorado,030711,9.1,9.4,2.0,9.6
+Census Tract 307.12; El Dorado County; California,75.0,4929.0,3451.0,115.0,126.0,0.0,0.0,1580.0,06,El Dorado,030712,1.5,0.0,2.3,2.6
+Census Tract 308.01; El Dorado County; California,163.0,4730.0,3515.0,2.0,669.0,32.0,0.0,1687.0,06,El Dorado,030801,3.4,1.9,0.0,14.1
+Census Tract 308.04; El Dorado County; California,418.0,6677.0,5242.0,12.0,1111.0,15.0,19.0,2603.0,06,El Dorado,030804,6.3,1.3,0.2,16.6
+Census Tract 308.07; El Dorado County; California,49.0,3482.0,2686.0,0.0,416.0,12.0,13.0,1309.0,06,El Dorado,030807,1.4,1.9,0.0,11.9
+Census Tract 308.08; El Dorado County; California,204.0,6189.0,4569.0,49.0,967.0,40.0,15.0,2347.0,06,El Dorado,030808,3.3,2.3,0.8,15.6
+Census Tract 308.09; El Dorado County; California,156.0,2743.0,1983.0,30.0,445.0,7.0,6.0,1033.0,06,El Dorado,030809,5.7,1.3,1.1,16.2
+Census Tract 308.10; El Dorado County; California,523.0,3724.0,2601.0,121.0,730.0,13.0,34.0,1576.0,06,El Dorado,030810,14.0,3.0,3.2,19.6
+Census Tract 308.11; El Dorado County; California,297.0,1487.0,1165.0,0.0,203.0,11.0,0.0,765.0,06,El Dorado,030811,20.0,1.4,0.0,13.7
+Census Tract 308.12; El Dorado County; California,258.0,6450.0,5359.0,0.0,637.0,15.0,230.0,2253.0,06,El Dorado,030812,4.0,10.9,0.0,9.9
+Census Tract 309.01; El Dorado County; California,230.0,3474.0,2764.0,0.0,313.0,0.0,20.0,1208.0,06,El Dorado,030901,6.6,1.7,0.0,9.0
+Census Tract 309.02; El Dorado County; California,292.0,5133.0,4148.0,61.0,742.0,0.0,3.0,1815.0,06,El Dorado,030902,5.7,0.2,1.2,14.5
+Census Tract 310; El Dorado County; California,712.0,6477.0,4813.0,9.0,1370.0,12.0,0.0,2693.0,06,El Dorado,031000,11.0,0.4,0.1,21.2
+Census Tract 311; El Dorado County; California,725.0,6223.0,4673.0,49.0,1196.0,44.0,115.0,2531.0,06,El Dorado,031100,11.7,6.3,0.8,19.2
+Census Tract 312; El Dorado County; California,658.0,4852.0,4260.0,87.0,675.0,118.0,43.0,2050.0,06,El Dorado,031200,13.6,7.9,1.8,13.9
+Census Tract 313.01; El Dorado County; California,316.0,3563.0,3141.0,3.0,174.0,0.0,25.0,1568.0,06,El Dorado,031301,8.9,1.6,0.1,4.9
+Census Tract 313.02; El Dorado County; California,1182.0,3999.0,3478.0,88.0,320.0,129.0,78.0,1990.0,06,El Dorado,031302,29.6,10.4,2.2,8.0
+Census Tract 314.04; El Dorado County; California,123.0,2359.0,2066.0,23.0,232.0,8.0,0.0,903.0,06,El Dorado,031404,5.2,0.9,1.0,9.8
+Census Tract 314.05; El Dorado County; California,210.0,2494.0,2157.0,8.0,229.0,19.0,6.0,957.0,06,El Dorado,031405,8.4,2.6,0.3,9.2
+Census Tract 314.06; El Dorado County; California,225.0,4850.0,4536.0,5.0,215.0,14.0,0.0,1924.0,06,El Dorado,031406,4.6,0.7,0.1,4.4
+Census Tract 314.07; El Dorado County; California,640.0,1916.0,1603.0,0.0,73.0,0.0,0.0,688.0,06,El Dorado,031407,33.4,0.0,0.0,3.8
+Census Tract 314.08; El Dorado County; California,190.0,1886.0,1132.0,0.0,521.0,118.0,7.0,927.0,06,El Dorado,031408,10.1,13.5,0.0,27.6
+Census Tract 314.09; El Dorado County; California,83.0,2554.0,2289.0,14.0,72.0,0.0,0.0,1024.0,06,El Dorado,031409,3.2,0.0,0.5,2.8
+Census Tract 315.03; El Dorado County; California,128.0,2433.0,2118.0,1.0,153.0,32.0,0.0,1043.0,06,El Dorado,031503,5.3,3.1,0.0,6.3
+Census Tract 315.04; El Dorado County; California,1189.0,6516.0,4403.0,1.0,1814.0,82.0,51.0,2625.0,06,El Dorado,031504,18.2,5.1,0.0,27.8
+Census Tract 315.05; El Dorado County; California,193.0,2978.0,2633.0,2.0,244.0,55.0,27.0,1334.0,06,El Dorado,031505,6.5,6.1,0.1,8.2
+Census Tract 315.06; El Dorado County; California,142.0,2740.0,2386.0,1.0,178.0,0.0,164.0,1056.0,06,El Dorado,031506,5.2,15.5,0.0,6.5
+Census Tract 316.01; El Dorado County; California,315.0,1783.0,808.0,0.0,886.0,20.0,104.0,797.0,06,El Dorado,031601,17.7,15.6,0.0,49.7
+Census Tract 316.02; El Dorado County; California,558.0,2244.0,815.0,7.0,704.0,2.0,41.0,836.0,06,El Dorado,031602,24.9,5.1,0.3,31.4
+Census Tract 317; El Dorado County; California,248.0,3506.0,2137.0,39.0,252.0,0.0,0.0,1087.0,06,El Dorado,031700,7.1,0.0,1.1,7.2
+Census Tract 318; El Dorado County; California,216.0,6972.0,4421.0,84.0,548.0,41.0,0.0,2133.0,06,El Dorado,031800,3.1,1.9,1.2,7.9
+Census Tract 319; El Dorado County; California,0.0,85.0,80.0,0.0,0.0,0.0,0.0,43.0,06,El Dorado,031900,0.0,0.0,0.0,0.0
+Census Tract 320.01; El Dorado County; California,116.0,810.0,779.0,0.0,31.0,8.0,0.0,358.0,06,El Dorado,032001,14.3,2.2,0.0,3.8
+Census Tract 320.02; El Dorado County; California,44.0,216.0,160.0,16.0,47.0,0.0,0.0,91.0,06,El Dorado,032002,20.4,0.0,7.4,21.8
+Census Tract 9900; El Dorado County; California,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,06,El Dorado,990000,,,,
